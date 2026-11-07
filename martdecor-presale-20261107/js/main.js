@@ -44,7 +44,7 @@ document.querySelectorAll('[data-selection-toggle]').forEach(button => button.ad
 document.querySelectorAll('[data-selection-close]').forEach(button => button.addEventListener('click', () => selectionDialog?.close()));
 
 function productCard(product) {
-  return `<article class="product-card"><div class="product-swatch ${product.tone}"><span>ОБРАЗЕЦ<br>НЕ ДОБАВЛЕН</span></div><div class="product-meta">${product.category} · ${product.brand}</div><h3><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a></h3><p>${product.short}</p><div class="product-bottom"><b>${product.price}</b><a href="item.html?id=${encodeURIComponent(product.id)}">Подробнее ↗</a></div><button class="select-product" type="button" data-select="${product.id}">+ В подборку</button><small>Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть</a> · проверено ${product.checked}</small></article>`;
+  return `<article class="product-card"><div class="product-swatch ${product.tone}"><span>ОБРАЗЕЦ<br>НЕ ДОБАВЛЕН</span></div><div class="product-meta">${product.category} · ${product.brand}</div><h3><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a></h3><p>${product.short}</p><div class="product-bottom"><b>${product.price}</b><a href="item.html?id=${encodeURIComponent(product.id)}">Подробнее ↗</a></div><button class="select-product" type="button" data-select="${product.id}">+ В подборку</button></article>`;
 }
 
 if (productGrid) productGrid.innerHTML = window.PRODUCTS.slice(0, 4).map(productCard).join('');
@@ -79,7 +79,7 @@ const itemRoot = document.querySelector('#item');
 if (itemRoot) {
   const id = new URLSearchParams(location.search).get('id');
   const product = window.PRODUCTS.find(item => item.id === id);
-  itemRoot.innerHTML = product ? `<div class="item-layout"><div class="product-swatch item-swatch ${product.tone}"><span>ФОТО ОТ САЛОНА<br>ПОКА НЕ ДОБАВЛЕНО</span></div><div><p class="eyebrow">${product.category} · ${product.brand}</p><h1>${product.name}</h1><p class="item-price">${product.price}</p><p>${product.detail}</p><p class="source-note">Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть публикацию или страницу салона</a> · проверено ${product.checked}</p><p class="need">Актуальные цену и наличие уточните у консультанта. Данные об остатках не подключены.</p><button class="button" type="button" data-select="${product.id}">+ В подборку</button> <a class="text-link" href="index.html#request">Запросить цену и наличие ↗</a></div></div>` : '<p>Такой позиции в демонстрационной выборке нет. <a href="catalog.html">Вернуться в каталог</a>.</p>';
+  itemRoot.innerHTML = product ? `<div class="item-layout"><div class="product-swatch item-swatch ${product.tone}"><span>ФОТО ОТ САЛОНА<br>ПОКА НЕ ДОБАВЛЕНО</span></div><div><p class="eyebrow">${product.category} · ${product.brand}</p><h1>${product.name}</h1><p class="item-price">${product.price}</p><p>${product.detail}</p><p class="need">Актуальные цену и наличие уточните у консультанта. Данные об остатках не подключены.</p><button class="button" type="button" data-select="${product.id}">+ В подборку</button> <a class="text-link" href="index.html#request">Запросить цену и наличие ↗</a></div></div>` : '<p>Такой позиции в демонстрационной выборке нет. <a href="catalog.html">Вернуться в каталог</a>.</p>';
 }
 
 renderSelection();
@@ -99,7 +99,7 @@ if (selectionCta) selectionCta.addEventListener('click', () => {
 });
 
 const articleRoot = document.querySelector('#article');
-if (articleRoot) articleRoot.innerHTML = window.ARTICLES.map(article => `<article class="article-content"><p class="eyebrow">СОВЕТ · ПРИМЕРКА ОБРАЗЦОВ</p><h1>${article.title}</h1><p class="lead">${article.summary}</p><p>${article.body}</p><p class="source-note">Источник: <a href="${article.source}" target="_blank" rel="noopener">публикация салона</a> · ${article.checked}</p><a class="button" href="index.html#request">Уточнить условия примерки ↗</a></article>`).join('');
+if (articleRoot) articleRoot.innerHTML = window.ARTICLES.map(article => `<article class="article-content"><p class="eyebrow">СОВЕТ · ПРИМЕРКА ОБРАЗЦОВ</p><h1>${article.title}</h1><p class="lead">${article.summary}</p><p>${article.body}</p><a class="button" href="index.html#request">Уточнить условия примерки ↗</a></article>`).join('');
 
 const form = document.querySelector('#request-form');
 if (form) {
