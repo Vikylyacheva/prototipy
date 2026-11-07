@@ -22,8 +22,6 @@ function renderSelection() {
     const product = window.PRODUCTS.find(item => item.id === id);
     return `<article class="selected-item"><span class="mini-swatch ${product.tone}" aria-hidden="true"></span><div><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a><small>${product.brand} · ${product.price}</small></div><button type="button" data-remove="${product.id}" aria-label="Убрать ${product.name} из подборки">×</button></article>`;
   }).join('') : '<p class="selection-empty">Пока ничего не добавлено. Нажмите «В подборку» у понравившегося материала.</p>';
-  const cta = document.querySelector('#selection-cta');
-  if (cta) cta.href = selected.length ? '#request' : 'catalog.html';
   document.querySelectorAll('[data-select]').forEach(button => {
     const active = selected.includes(button.dataset.select);
     button.setAttribute('aria-pressed', String(active));
@@ -41,6 +39,9 @@ document.addEventListener('click', event => {
   }
   if (remove) { saveSelection(getSelection().filter(id => id !== remove.dataset.remove)); renderSelection(); }
 });
+const selectionDialog = document.querySelector('#selection-dialog');
+document.querySelectorAll('[data-selection-toggle]').forEach(button => button.addEventListener('click', () => selectionDialog?.showModal()));
+document.querySelectorAll('[data-selection-close]').forEach(button => button.addEventListener('click', () => selectionDialog?.close()));
 
 function productCard(product) {
   return `<article class="product-card"><div class="product-swatch ${product.tone}"><span>ОБРАЗЕЦ<br>НЕ ДОБАВЛЕН</span></div><div class="product-meta">${product.category} · ${product.brand}</div><h3><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a></h3><p>${product.short}</p><div class="product-bottom"><b>${product.price}</b><a href="item.html?id=${encodeURIComponent(product.id)}">Подробнее ↗</a></div><button class="select-product" type="button" data-select="${product.id}">+ В подборку</button><small>Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть</a> · проверено ${product.checked}</small></article>`;
@@ -84,10 +85,17 @@ if (itemRoot) {
 renderSelection();
 
 const selectionCta = document.querySelector('#selection-cta');
-if (selectionCta) selectionCta.addEventListener('click', event => {
+if (selectionCta) selectionCta.addEventListener('click', () => {
   const selected = getSelection().map(id => window.PRODUCTS.find(item => item.id === id)).filter(Boolean);
   const detailsField = document.querySelector('#request-form [name="details"]');
-  if (selected.length && detailsField) detailsField.value = `Хочу обсудить подборку: ${selected.map(item => item.name).join(', ')}.`;
+  if (selected.length && detailsField) {
+    detailsField.value = `Хочу обсудить подборку: ${selected.map(item => item.name).join(', ')}.`;
+    selectionDialog?.close();
+    location.hash = 'request';
+  } else if (!selected.length) {
+    selectionDialog?.close();
+    location.href = 'catalog.html';
+  }
 });
 
 const articleRoot = document.querySelector('#article');
