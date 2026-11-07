@@ -5,8 +5,45 @@ const brandSelect = document.querySelector('#brand');
 const results = document.querySelector('#results');
 const catalogGrid = document.querySelector('#catalog-products');
 
+const selectionKey = 'martdecor-presale-selection';
+function getSelection() {
+  try { return JSON.parse(localStorage.getItem(selectionKey) || '[]').filter(id => window.PRODUCTS.some(product => product.id === id)); }
+  catch { return []; }
+}
+function saveSelection(items) {
+  try { localStorage.setItem(selectionKey, JSON.stringify(items)); } catch {}
+}
+function renderSelection() {
+  const selected = getSelection();
+  const count = document.querySelector('#selection-count');
+  const list = document.querySelector('#selected-items');
+  if (count) count.textContent = selected.length;
+  if (list) list.innerHTML = selected.length ? selected.map(id => {
+    const product = window.PRODUCTS.find(item => item.id === id);
+    return `<article class="selected-item"><span class="mini-swatch ${product.tone}" aria-hidden="true"></span><div><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a><small>${product.brand} · ${product.price}</small></div><button type="button" data-remove="${product.id}" aria-label="Убрать ${product.name} из подборки">×</button></article>`;
+  }).join('') : '<p class="selection-empty">Пока ничего не добавлено. Нажмите «В подборку» у понравившегося материала.</p>';
+  const cta = document.querySelector('#selection-cta');
+  if (cta) cta.href = selected.length ? '#request' : 'catalog.html';
+  document.querySelectorAll('[data-select]').forEach(button => {
+    const active = selected.includes(button.dataset.select);
+    button.setAttribute('aria-pressed', String(active));
+    button.textContent = active ? '✓ В подборке' : '+ В подборку';
+  });
+}
+document.addEventListener('click', event => {
+  const add = event.target.closest('[data-select]');
+  const remove = event.target.closest('[data-remove]');
+  if (add) {
+    const selected = getSelection();
+    const id = add.dataset.select;
+    saveSelection(selected.includes(id) ? selected.filter(value => value !== id) : [...selected, id]);
+    renderSelection();
+  }
+  if (remove) { saveSelection(getSelection().filter(id => id !== remove.dataset.remove)); renderSelection(); }
+});
+
 function productCard(product) {
-  return `<article class="product-card"><div class="product-swatch ${product.tone}"><span>ОБРАЗЕЦ<br>НЕ ДОБАВЛЕН</span></div><div class="product-meta">${product.category} · ${product.brand}</div><h3><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a></h3><p>${product.short}</p><div class="product-bottom"><b>${product.price}</b><a href="item.html?id=${encodeURIComponent(product.id)}">Подробнее ↗</a></div><small>Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть</a> · проверено ${product.checked}</small></article>`;
+  return `<article class="product-card"><div class="product-swatch ${product.tone}"><span>ОБРАЗЕЦ<br>НЕ ДОБАВЛЕН</span></div><div class="product-meta">${product.category} · ${product.brand}</div><h3><a href="item.html?id=${encodeURIComponent(product.id)}">${product.name}</a></h3><p>${product.short}</p><div class="product-bottom"><b>${product.price}</b><a href="item.html?id=${encodeURIComponent(product.id)}">Подробнее ↗</a></div><button class="select-product" type="button" data-select="${product.id}">+ В подборку</button><small>Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть</a> · проверено ${product.checked}</small></article>`;
 }
 
 if (productGrid) productGrid.innerHTML = window.PRODUCTS.slice(0, 4).map(productCard).join('');
@@ -41,8 +78,17 @@ const itemRoot = document.querySelector('#item');
 if (itemRoot) {
   const id = new URLSearchParams(location.search).get('id');
   const product = window.PRODUCTS.find(item => item.id === id);
-  itemRoot.innerHTML = product ? `<div class="item-layout"><div class="product-swatch item-swatch ${product.tone}"><span>ФОТО ОТ САЛОНА<br>ПОКА НЕ ДОБАВЛЕНО</span></div><div><p class="eyebrow">${product.category} · ${product.brand}</p><h1>${product.name}</h1><p class="item-price">${product.price}</p><p>${product.detail}</p><p class="source-note">Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть публикацию или страницу салона</a> · проверено ${product.checked}</p><p class="need">Актуальные цену и наличие уточните у консультанта. Данные об остатках не подключены.</p><a class="button" href="index.html#request">Запросить цену и наличие ↗</a></div></div>` : '<p>Такой позиции в демонстрационной выборке нет. <a href="catalog.html">Вернуться в каталог</a>.</p>';
+  itemRoot.innerHTML = product ? `<div class="item-layout"><div class="product-swatch item-swatch ${product.tone}"><span>ФОТО ОТ САЛОНА<br>ПОКА НЕ ДОБАВЛЕНО</span></div><div><p class="eyebrow">${product.category} · ${product.brand}</p><h1>${product.name}</h1><p class="item-price">${product.price}</p><p>${product.detail}</p><p class="source-note">Источник: <a href="${product.source}" target="_blank" rel="noopener">открыть публикацию или страницу салона</a> · проверено ${product.checked}</p><p class="need">Актуальные цену и наличие уточните у консультанта. Данные об остатках не подключены.</p><button class="button" type="button" data-select="${product.id}">+ В подборку</button> <a class="text-link" href="index.html#request">Запросить цену и наличие ↗</a></div></div>` : '<p>Такой позиции в демонстрационной выборке нет. <a href="catalog.html">Вернуться в каталог</a>.</p>';
 }
+
+renderSelection();
+
+const selectionCta = document.querySelector('#selection-cta');
+if (selectionCta) selectionCta.addEventListener('click', event => {
+  const selected = getSelection().map(id => window.PRODUCTS.find(item => item.id === id)).filter(Boolean);
+  const detailsField = document.querySelector('#request-form [name="details"]');
+  if (selected.length && detailsField) detailsField.value = `Хочу обсудить подборку: ${selected.map(item => item.name).join(', ')}.`;
+});
 
 const articleRoot = document.querySelector('#article');
 if (articleRoot) articleRoot.innerHTML = window.ARTICLES.map(article => `<article class="article-content"><p class="eyebrow">СОВЕТ · ПРИМЕРКА ОБРАЗЦОВ</p><h1>${article.title}</h1><p class="lead">${article.summary}</p><p>${article.body}</p><p class="source-note">Источник: <a href="${article.source}" target="_blank" rel="noopener">публикация салона</a> · ${article.checked}</p><a class="button" href="index.html#request">Уточнить условия примерки ↗</a></article>`).join('');
