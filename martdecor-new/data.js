@@ -464,7 +464,7 @@ window.PRODUCTS = [
       "assets/imported/ref-pu-ridge.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12285011",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 960 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из полиуретана"
@@ -472,7 +472,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 6960,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-pu-quilt",
@@ -484,7 +487,7 @@ window.PRODUCTS = [
       "assets/imported/ref-pu-quilt.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284980",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 131 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из полиуретана"
@@ -492,7 +495,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 8131,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-pu-hillbead",
@@ -504,7 +510,7 @@ window.PRODUCTS = [
       "assets/imported/ref-pu-hillbead.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284964",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 283 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из полиуретана"
@@ -512,7 +518,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 6283,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-pu-valley",
@@ -524,7 +533,7 @@ window.PRODUCTS = [
       "assets/imported/ref-pu-valley.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284917",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 228 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из полиуретана"
@@ -532,7 +541,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 6228,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-pu-chevron",
@@ -544,7 +556,7 @@ window.PRODUCTS = [
       "assets/imported/ref-pu-chevron.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12285018",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 801 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из полиуретана"
@@ -552,7 +564,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 10801,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-pu-rocks",
@@ -564,7 +579,7 @@ window.PRODUCTS = [
       "assets/imported/ref-pu-rocks.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12278849",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 610 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из полиуретана"
@@ -572,7 +587,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 8610,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-sound",
@@ -584,14 +602,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-sound.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2930468",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 987 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 1987,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-aura",
@@ -603,14 +624,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-aura.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2930419",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 987 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 1987,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-sahara",
@@ -622,14 +646,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-sahara.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2930398",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 987 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 1987,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-velvet",
@@ -641,14 +668,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-velvet.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2930392",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 987 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 1987,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-barcode",
@@ -660,14 +690,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-barcode.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2928099",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 987 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 1987,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-slabs",
@@ -679,14 +712,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-slabs.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2927051",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 990 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 5990,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-duna",
@@ -698,14 +734,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-duna.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2926803",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 990 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 5990,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-ribs",
@@ -717,14 +756,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-ribs.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2926808",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 950 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "3D-панели из гипса"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 3950,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-zaha",
@@ -736,14 +778,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-zaha.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2925960",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 990 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Панно"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 5990,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-lightwave",
@@ -755,14 +800,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-lightwave.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2926213",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Панели со скрытой подсветкой"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-lightbars",
@@ -774,14 +822,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-lightbars.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2926204",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Панели со скрытой подсветкой"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-rf-iq",
@@ -793,14 +844,17 @@ window.PRODUCTS = [
       "assets/imported/ref-rf-iq.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2926146",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Панели со скрытой подсветкой"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-stream",
@@ -812,14 +866,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-stream.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_2933144",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 385 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Гипсовые 3D-элементы"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 385,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ap-tor",
@@ -831,14 +888,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ap-tor.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_6251737",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 580 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Гипсовые 3D-элементы"
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 580,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ac-marron",
@@ -850,7 +910,7 @@ window.PRODUCTS = [
       "assets/imported/ref-ac-marron.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284492",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 500 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Акустические панели"
@@ -858,7 +918,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 10500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ac-latte",
@@ -870,7 +933,7 @@ window.PRODUCTS = [
       "assets/imported/ref-ac-latte.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284484",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 500 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Акустические панели"
@@ -878,7 +941,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 10500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ac-graphite",
@@ -890,7 +956,7 @@ window.PRODUCTS = [
       "assets/imported/ref-ac-graphite.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284445",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 400 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Акустические панели"
@@ -898,7 +964,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 8400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ac-tiramisu",
@@ -910,7 +979,7 @@ window.PRODUCTS = [
       "assets/imported/ref-ac-tiramisu.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12284426",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 400 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Акустические панели"
@@ -918,7 +987,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 8400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dr-slat-1",
@@ -930,7 +1002,7 @@ window.PRODUCTS = [
       "assets/imported/ref-dr-slat-1.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12280402",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 655 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Декоративные рейки"
@@ -938,7 +1010,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 655,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dr-slat-2",
@@ -950,7 +1025,7 @@ window.PRODUCTS = [
       "assets/imported/ref-dr-slat-2.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12280388",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 817 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Декоративные рейки"
@@ -958,7 +1033,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 817,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dp-916",
@@ -970,14 +1048,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dp-916.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12280147",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 477 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Дюрополимер"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4477,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dp-dd911",
@@ -989,14 +1070,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dp-dd911.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12279966",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 162 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Дюрополимер"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4162,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dp-dd912",
@@ -1008,14 +1092,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dp-dd912.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12279954",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 802 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Дюрополимер"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4802,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dp-dd921",
@@ -1027,14 +1114,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dp-dd921.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12279740",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 960 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Дюрополимер"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 3960,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-sp-13",
@@ -1046,14 +1136,17 @@ window.PRODUCTS = [
       "assets/imported/ref-sp-13.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_9654305",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 238 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Дюрополимер"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1238,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-sp-19",
@@ -1065,14 +1158,17 @@ window.PRODUCTS = [
       "assets/imported/ref-sp-19.jpg"
     ],
     "source": "https://vk.ru/market-53471837?w=product-53471837_12278796",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 361 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Дюрополимер"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1361,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-hw-gn6",
@@ -1084,14 +1180,17 @@ window.PRODUCTS = [
       "assets/imported/ref-hw-gn6.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm629-gn6-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Цветные панели"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-hw-bu7",
@@ -1103,14 +1202,17 @@ window.PRODUCTS = [
       "assets/imported/ref-hw-bu7.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-bu7-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Цветные панели"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-hw-br73",
@@ -1122,14 +1224,17 @@ window.PRODUCTS = [
       "assets/imported/ref-hw-br73.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm625-br73-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Цветные панели"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-st-verde",
@@ -1141,7 +1246,7 @@ window.PRODUCTS = [
       "assets/imported/ref-st-verde.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-verde-gvatemala-verde-guatemala-1220h2700mm-mramor/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 26 630 ₽/лист",
     "specs": {
       "Направление": "Каменный шпон",
       "Вид материала": "Каменный шпон"
@@ -1149,7 +1254,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 26630,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-st-rivergold",
@@ -1161,7 +1269,7 @@ window.PRODUCTS = [
       "assets/imported/ref-st-rivergold.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-river-gold-river-gold-1220h2700mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 26 630 ₽/лист",
     "specs": {
       "Направление": "Каменный шпон",
       "Вид материала": "Каменный шпон"
@@ -1169,7 +1277,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 26630,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-st-leaves",
@@ -1181,7 +1292,7 @@ window.PRODUCTS = [
       "assets/imported/ref-st-leaves.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-svetoprozrachnyy-foling-livz-falling-leaves-610h1220mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 300 ₽/лист",
     "specs": {
       "Направление": "Каменный шпон",
       "Вид материала": "Каменный шпон"
@@ -1189,7 +1300,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 5300,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-bm-wood",
@@ -1201,14 +1315,17 @@ window.PRODUCTS = [
       "assets/imported/ref-bm-wood.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-wood-d1105/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Бамбуковые панели"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-bm-metal",
@@ -1220,14 +1337,17 @@ window.PRODUCTS = [
       "assets/imported/ref-bm-metal.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-metal-d1135/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 900 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Бамбуковые панели"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-bm-textile",
@@ -1239,14 +1359,17 @@ window.PRODUCTS = [
       "assets/imported/ref-bm-textile.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-textile-d1122/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 000 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Бамбуковые панели"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-bm-radius",
@@ -1258,14 +1381,17 @@ window.PRODUCTS = [
       "assets/imported/ref-bm-radius.jpg"
     ],
     "source": "https://martdecor.online/product/radiusnyy-element-decaro-wallpanels-wood-d1106r/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Направление": "Панели",
       "Вид материала": "Бамбуковые панели"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-sp-20065",
@@ -1277,14 +1403,17 @@ window.PRODUCTS = [
       "assets/imported/ref-sp-20065.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-20065/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Направление": "Обои и фрески",
       "Вид материала": "Обои"
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-sp-20061",
@@ -1296,14 +1425,17 @@ window.PRODUCTS = [
       "assets/imported/ref-sp-20061.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-20061/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Направление": "Обои и фрески",
       "Вид материала": "Обои"
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-sp-10695",
@@ -1315,14 +1447,17 @@ window.PRODUCTS = [
       "assets/imported/ref-sp-10695.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10695/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Направление": "Обои и фрески",
       "Вид материала": "Обои"
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ln-emal",
@@ -1334,7 +1469,7 @@ window.PRODUCTS = [
       "assets/imported/ref-ln-emal.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-matovaya-1-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 576 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Интерьерные краски"
@@ -1342,7 +1477,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 1576,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ln-faktura",
@@ -1354,7 +1492,7 @@ window.PRODUCTS = [
       "assets/imported/ref-ln-faktura.jpg"
     ],
     "source": "https://martdecor.online/product/universalnaya-kraska-lanors-solo-faktura-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 134 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Интерьерные краски"
@@ -1362,7 +1500,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 5134,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ln-travertin",
@@ -1374,14 +1515,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ln-travertin.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-travertin-travertine-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 675 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 10675,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ln-eclipse",
@@ -1393,14 +1537,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ln-eclipse.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-eklips-eclipse-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 12 708 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 12708,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ln-silica",
@@ -1412,14 +1559,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ln-silica.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-silika-silica-10-kg-silver/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 13 420 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 13420,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-ln-koroed",
@@ -1431,14 +1581,17 @@ window.PRODUCTS = [
       "assets/imported/ref-ln-koroed.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-solo-koroed-15-kg-2-mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 524 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 4524,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dc-i100",
@@ -1450,14 +1603,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dc-i100.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-decaro-invisible-i100-pod-pokrasku/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 021 ₽/шт",
     "specs": {
       "Направление": "Профили и подсветка",
       "Вид материала": "Скрытый плинтус"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1021,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dc-ml15",
@@ -1469,14 +1625,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dc-ml15.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-ml15a-latun/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 000 ₽/шт",
     "specs": {
       "Направление": "Профили и подсветка",
       "Вид материала": "Скрытый плинтус"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-dc-m15",
@@ -1488,14 +1647,17 @@ window.PRODUCTS = [
       "assets/imported/ref-dc-m15.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-m15a-titan/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 789 ₽/шт",
     "specs": {
       "Направление": "Профили и подсветка",
       "Вид материала": "Скрытый плинтус"
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 789,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113854",
@@ -1507,7 +1669,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113854.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx199f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 986 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 8 см",
       "Материал": "Flex",
@@ -1518,7 +1680,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 8986,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113850",
@@ -1530,7 +1695,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113850.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx199/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 045 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 8 см",
       "Материал": "Duropolymer®",
@@ -1542,7 +1707,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2045,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113846",
@@ -1554,7 +1722,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113846.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx192/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 138 ₽/шт",
     "specs": {
       "Размер": "200 × 12 × 6 см",
       "Материал": "Duropolymer®",
@@ -1565,7 +1733,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2138,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113838",
@@ -1577,7 +1748,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113838.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx176/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 249 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 4 см",
       "Материал": "Duropolymer®",
@@ -1589,7 +1760,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1249,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113834",
@@ -1601,7 +1775,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113834.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx161/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 298 ₽/шт",
     "specs": {
       "Размер": "200 × 1,3 × 6,9 см",
       "Материал": "Duropolymer®",
@@ -1612,7 +1786,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1298,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113830",
@@ -1624,7 +1801,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113830.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx160/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 833 ₽/шт",
     "specs": {
       "Размер": "200 × 1,3 × 3,9 см",
       "Материал": "Duropolymer®",
@@ -1635,7 +1812,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 833,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113826",
@@ -1647,7 +1827,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113826.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx148/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 091 ₽/шт",
     "specs": {
       "Размер": "200 × 4,3 × 2,9 см",
       "Материал": "Duropolymer®",
@@ -1658,7 +1838,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1091,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113822",
@@ -1670,7 +1853,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113822.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx141/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 308 ₽/шт",
     "specs": {
       "Размер": "200 × 5,9 × 3,1 см",
       "Материал": "Duropolymer®",
@@ -1681,7 +1864,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1308,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113818",
@@ -1693,7 +1879,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113818.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx129/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 179 ₽/шт",
     "specs": {
       "Размер": "200 × 9,4 × 9,4 см",
       "Материал": "Duropolymer®",
@@ -1704,7 +1890,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3179,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113813",
@@ -1716,7 +1905,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113813.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx127f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 11 745 ₽/шт",
     "specs": {
       "Размер": "200 × 9,4 × 9,4 см",
       "Материал": "Flex",
@@ -1727,7 +1916,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 11745,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113809",
@@ -1739,7 +1931,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113809.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx127/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 041 ₽/шт",
     "specs": {
       "Размер": "200 × 9,4 × 9,4 см",
       "Материал": "Duropolymer®",
@@ -1750,7 +1942,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2041,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113805",
@@ -1762,7 +1957,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113805.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx126/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 832 ₽/шт",
     "specs": {
       "Размер": "200 × 8,7 × 8,7 см",
       "Материал": "Duropolymer®",
@@ -1773,7 +1968,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1832,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113800",
@@ -1785,7 +1983,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113800.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx124f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 346 ₽/шт",
     "specs": {
       "Размер": "200 × 4,9 × 4,9 см",
       "Материал": "Flex",
@@ -1796,7 +1994,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6346,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113796",
@@ -1808,7 +2009,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113796.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx124/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 111 ₽/шт",
     "specs": {
       "Размер": "200 × 4,9 × 4,9 см",
       "Материал": "Duropolymer®",
@@ -1820,7 +2021,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1111,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113791",
@@ -1832,7 +2036,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113791.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx123f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 966 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 8 см",
       "Материал": "Flex",
@@ -1843,7 +2047,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6966,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113787",
@@ -1855,7 +2062,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113787.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx123/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 307 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 8 см",
       "Материал": "Duropolymer®",
@@ -1867,7 +2074,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1307,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113783",
@@ -1879,7 +2089,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113783.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx115/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 685 ₽/шт",
     "specs": {
       "Размер": "200 × 3 × 2,9 см",
       "Материал": "Duropolymer®",
@@ -1890,7 +2100,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 685,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113779",
@@ -1902,7 +2115,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113779.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx112/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 349 ₽/шт",
     "specs": {
       "Размер": "200 × 5,4 × 3,8 см",
       "Материал": "Duropolymer®",
@@ -1913,7 +2126,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1349,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113775",
@@ -1925,7 +2141,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113775.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx111/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 604 ₽/шт",
     "specs": {
       "Размер": "200 × 2,6 × 1,5 см",
       "Материал": "Duropolymer®",
@@ -1936,7 +2152,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 604,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113770",
@@ -1948,7 +2167,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113770.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx110f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 455 ₽/шт",
     "specs": {
       "Размер": "200 × 4,5 × 4,1 см",
       "Материал": "Flex",
@@ -1959,7 +2178,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4455,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113766",
@@ -1971,7 +2193,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113766.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx110/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 985 ₽/шт",
     "specs": {
       "Размер": "200 × 4,5 × 4,1 см",
       "Материал": "Duropolymer®",
@@ -1982,7 +2204,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 985,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113761",
@@ -1994,7 +2219,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113761.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx109f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 455 ₽/шт",
     "specs": {
       "Размер": "200 × 4,4 × 4,4 см",
       "Материал": "Flex",
@@ -2005,7 +2230,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4455,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113757",
@@ -2017,7 +2245,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113757.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx109/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 968 ₽/шт",
     "specs": {
       "Размер": "200 × 4,4 × 4,4 см",
       "Материал": "Duropolymer®",
@@ -2028,7 +2256,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 968,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113753",
@@ -2040,7 +2271,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113753.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-karniz-orac-decor-cx108/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 350 ₽/шт",
     "specs": {
       "Размер": "200 × 5,4 × 5,5 см",
       "Материал": "Duropolymer®",
@@ -2051,7 +2282,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1350,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114342",
@@ -2063,7 +2297,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114342.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px209-lenta-ribbon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 438 ₽/шт",
     "specs": {
       "Размер": "200 × 1 × 1,8 см",
       "Материал": "Duropolymer®",
@@ -2074,7 +2308,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 438,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114337",
@@ -2086,7 +2323,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114337.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px202f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 962 ₽/шт",
     "specs": {
       "Размер": "200 × 7,5 × 2 см",
       "Материал": "Flex",
@@ -2098,7 +2335,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 5962,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114327",
@@ -2110,7 +2350,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114327.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px201f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 592 ₽/шт",
     "specs": {
       "Размер": "200 × 2,5 × 0,9 см",
       "Материал": "Flex",
@@ -2122,7 +2362,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2592,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114323",
@@ -2134,7 +2377,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114323.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px201/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 408 ₽/шт",
     "specs": {
       "Размер": "200 × 2,5 × 0,9 см",
       "Материал": "Duropolymer®",
@@ -2146,7 +2389,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 408,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114317",
@@ -2158,7 +2404,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114317.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px175f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 337 ₽/шт",
     "specs": {
       "Размер": "200 × 5 × 1,7 см",
       "Материал": "Flex",
@@ -2170,7 +2416,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4337,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114313",
@@ -2182,7 +2431,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114313.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px175/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 660 ₽/шт",
     "specs": {
       "Размер": "200 × 5 × 1,7 см",
       "Материал": "Duropolymer®",
@@ -2194,7 +2443,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 660,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114309",
@@ -2206,7 +2458,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114309.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px169/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 544 ₽/шт",
     "specs": {
       "Размер": "200 × 5,5 × 3,4 см",
       "Материал": "Duropolymer®",
@@ -2217,7 +2469,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2544,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114305",
@@ -2229,7 +2484,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114305.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px147/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 693 ₽/шт",
     "specs": {
       "Размер": "200 × 0,9 × 16,9 см",
       "Материал": "Duropolymer®",
@@ -2240,7 +2495,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3693,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114299",
@@ -2252,7 +2510,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114299.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px144f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 667 ₽/шт",
     "specs": {
       "Размер": "200 × 4,7 × 0,8 см",
       "Материал": "Flex",
@@ -2263,7 +2521,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4667,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114295",
@@ -2275,7 +2536,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114295.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px144/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 853 ₽/шт",
     "specs": {
       "Размер": "200 × 4,7 × 0,8 см",
       "Материал": "Duropolymer®",
@@ -2287,7 +2548,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 853,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114289",
@@ -2299,7 +2563,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114289.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px120f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 667 ₽/шт",
     "specs": {
       "Размер": "200 × 4 × 1,9 см",
       "Материал": "Flex",
@@ -2310,7 +2574,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4667,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114285",
@@ -2322,7 +2589,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114285.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px120/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 568 ₽/шт",
     "specs": {
       "Размер": "200 × 4 × 1,9 см",
       "Материал": "Duropolymer®",
@@ -2334,7 +2601,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 568,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114281",
@@ -2346,7 +2616,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114281.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px117/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 685 ₽/шт",
     "specs": {
       "Размер": "200 × 3,5 × 1,5 см",
       "Материал": "Duropolymer®",
@@ -2357,7 +2627,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 685,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114278",
@@ -2369,7 +2642,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114278.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px116/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 578 ₽/шт",
     "specs": {
       "Размер": "200 × 3,1 × 1,04 см",
       "Материал": "Duropolymer®",
@@ -2380,7 +2653,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 578,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114274",
@@ -2392,7 +2668,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114274.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px113/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 923 ₽/шт",
     "specs": {
       "Размер": "200 × 6 × 2,7 см",
       "Материал": "Duropolymer®",
@@ -2403,7 +2679,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1923,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114264",
@@ -2415,7 +2694,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114264.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-px103/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 327 ₽/шт",
     "specs": {
       "Размер": "200 × 2,5 × 1,2 см",
       "Материал": "Duropolymer®",
@@ -2427,7 +2706,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 327,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114261",
@@ -2439,7 +2721,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114261.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9905-medalon-medaillon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 800 ₽/шт",
     "specs": {
       "Размер": "200 × 6 × 1,2 см",
       "Под покраску": "Да",
@@ -2449,7 +2731,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114258",
@@ -2461,7 +2746,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114258.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9902-tsepochka-link/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 800 ₽/шт",
     "specs": {
       "Размер": "200 × 7 × 1,5 см",
       "Материал": "Purotouch®",
@@ -2472,7 +2757,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114254",
@@ -2484,7 +2772,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114254.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9901/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 719 ₽/шт",
     "specs": {
       "Размер": "200 × 7 × 1,4 см",
       "Материал": "Purotouch®",
@@ -2495,7 +2783,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2719,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114250",
@@ -2507,7 +2798,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114250.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9900/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 298 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 1 см",
       "Материал": "Purotouch®",
@@ -2518,7 +2809,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2298,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114246",
@@ -2530,7 +2824,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114246.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9050/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 979 ₽/шт",
     "specs": {
       "Размер": "200 × 2,5 × 1,3 см",
       "Материал": "Purotouch®",
@@ -2541,7 +2835,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1979,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114242",
@@ -2553,7 +2850,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114242.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9040/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 725 ₽/шт",
     "specs": {
       "Размер": "200 × 5 × 2,5 см",
       "Материал": "Purotouch®",
@@ -2565,7 +2862,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2725,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114238",
@@ -2577,7 +2877,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114238.jpg"
     ],
     "source": "https://martdecor.online/product/nastennyy-molding-orac-decor-p9020/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 178 ₽/шт",
     "specs": {
       "Размер": "200 × 9,6 × 2,1 см",
       "Материал": "Purotouch®",
@@ -2589,7 +2889,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4178,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114765",
@@ -2601,7 +2904,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114765.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnaya-rozetka-orac-decor-r13/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 808 ₽/шт",
     "specs": {
       "Размер": "28 × 3,1 × 28 см",
       "Материал": "Purotouch®",
@@ -2612,7 +2915,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2808,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114761",
@@ -2624,7 +2930,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114761.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnaya-rozetka-orac-decor-r12/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 558 ₽/шт",
     "specs": {
       "Размер": "19,5 × 1,8 × 19,5 см",
       "Материал": "Purotouch®",
@@ -2635,7 +2941,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2558,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114757",
@@ -2647,7 +2956,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114757.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnaya-rozetka-orac-decor-r11/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 325 ₽/шт",
     "specs": {
       "Размер": "19 × 3,6 × 19 см",
       "Материал": "Purotouch®",
@@ -2658,7 +2967,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2325,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114753",
@@ -2670,7 +2982,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114753.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnaya-rozetka-orac-decor-r10/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 171 ₽/шт",
     "specs": {
       "Размер": "15 × 4,2 × 15 см",
       "Материал": "Purotouch®",
@@ -2681,7 +2993,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2171,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114747",
@@ -2693,7 +3008,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114747.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1152/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 12 639 ₽/шт",
     "specs": {
       "Размер": "32 × 12,5 × 32 см",
       "Материал": "Duropolymer®",
@@ -2704,7 +3019,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 12639,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114742",
@@ -2716,7 +3034,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114742.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1132/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 44 495 ₽/шт",
     "specs": {
       "Размер": "35 × 57,5 × 35 см",
       "Материал": "Purotouch®",
@@ -2727,7 +3045,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 44495,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114736",
@@ -2739,7 +3060,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114736.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1131/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 20 406 ₽/шт",
     "specs": {
       "Размер": "35 × 57,5 × 17,5 см",
       "Материал": "Purotouch®",
@@ -2750,7 +3071,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 20406,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114730",
@@ -2762,7 +3086,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114730.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1122/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 30 265 ₽/шт",
     "specs": {
       "Размер": "36 × 30 × 36 см",
       "Материал": "Duropolymer®",
@@ -2773,7 +3097,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 30265,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114725",
@@ -2785,7 +3112,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114725.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1112/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 318 ₽/шт",
     "specs": {
       "Размер": "36,5 × 30 × 36,5 см",
       "Материал": "Duropolymer®",
@@ -2796,7 +3123,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19318,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114720",
@@ -2808,7 +3138,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114720.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1102/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 51 998 ₽/шт",
     "specs": {
       "Размер": "22 × 202 × 22 см",
       "Материал": "Purotouch®",
@@ -2819,7 +3149,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 51998,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114715",
@@ -2831,7 +3164,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114715.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1101/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 22 121 ₽/шт",
     "specs": {
       "Размер": "22 × 202 × 11 см",
       "Материал": "Purotouch®",
@@ -2842,7 +3175,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 22121,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114709",
@@ -2854,7 +3190,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114709.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k1002/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 55 948 ₽/шт",
     "specs": {
       "Размер": "22 × 199,5 × 22 см",
       "Материал": "Purotouch®",
@@ -2865,7 +3201,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 55948,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114704",
@@ -2877,7 +3216,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114704.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k250/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 926 ₽/шт",
     "specs": {
       "Размер": "27 × 200 × 2,9 см",
       "Материал": "Purotouch®",
@@ -2888,7 +3227,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 10926,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114699",
@@ -2900,7 +3242,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114699.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k202/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Размер": "18,5 × 54,1 × 4,1 см",
       "Материал": "Purotouch®",
@@ -2911,7 +3253,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114693",
@@ -2923,7 +3268,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114693.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-k201/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 716 ₽/шт",
     "specs": {
       "Размер": "22,8 × 14,9 × 6,2 см",
       "Материал": "Purotouch®",
@@ -2934,7 +3279,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6716,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114691",
@@ -2946,7 +3294,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114691.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-d506/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 720 ₽/шт",
     "specs": {
       "Размер": "43 × 1,7 × 43 см",
       "Материал": "Duropolymer®",
@@ -2957,7 +3305,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6720,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114689",
@@ -2969,7 +3320,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114689.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-d504/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 688 ₽/шт",
     "specs": {
       "Размер": "55 × 1,7 × 22 см",
       "Материал": "Duropolymer®",
@@ -2980,7 +3331,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6688,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114687",
@@ -2992,7 +3346,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114687.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-d503/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 244 ₽/шт",
     "specs": {
       "Размер": "55 × 1,7 × 55 см",
       "Материал": "Duropolymer®",
@@ -3003,7 +3357,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 10244,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114685",
@@ -3015,7 +3372,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114685.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-d401/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 320 ₽/шт",
     "specs": {
       "Размер": "127,5 × 5,5 × 14,5 см",
       "Материал": "Purotouch®",
@@ -3026,7 +3383,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 18320,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114682",
@@ -3038,7 +3398,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114682.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnyy-element-orac-decor-d200/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 974 ₽/шт",
     "specs": {
       "Размер": "9,6 × 9,6 × 3 см",
       "Материал": "Duropolymer®",
@@ -3049,7 +3409,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 974,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93627",
@@ -3061,7 +3424,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93627.jpg"
     ],
     "source": "https://martdecor.online/product/ugol-dd803/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 679 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3069,7 +3432,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 679,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93624",
@@ -3081,7 +3447,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93624.jpg"
     ],
     "source": "https://martdecor.online/product/ugol-dd802/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 381 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3089,7 +3455,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 381,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93621",
@@ -3101,7 +3470,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93621.jpg"
     ],
     "source": "https://martdecor.online/product/ugol-dd801/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 748 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3109,7 +3478,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 748,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93618",
@@ -3121,7 +3493,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93618.jpg"
     ],
     "source": "https://martdecor.online/product/ugol-dd20/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 359 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3129,7 +3501,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 359,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93615",
@@ -3141,7 +3516,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93615.jpg"
     ],
     "source": "https://martdecor.online/product/ugol-dd06/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 347 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3149,7 +3524,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 347,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93612",
@@ -3161,7 +3539,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93612.jpg"
     ],
     "source": "https://martdecor.online/product/ugol-116s-a/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 359 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3169,7 +3547,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 359,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on89025",
@@ -3181,7 +3562,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on89025.jpg"
     ],
     "source": "https://martdecor.online/product/okonchaniya-k-moldingu-rodecor-rokoko-06322rc-70-70-15/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 391 ₽/шт",
     "specs": {
       "Материал": "Окончание к молдингу",
       "Коллекция": "Царскосельский Рококо",
@@ -3191,7 +3572,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1391,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on89023",
@@ -3203,7 +3587,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on89023.jpg"
     ],
     "source": "https://martdecor.online/product/okonchaniya-k-moldingu-rodecor-rokoko-06301rc-130-75-20/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 708 ₽/шт",
     "specs": {
       "Материал": "Окончание к молдингу",
       "Коллекция": "Царскосельский Рококо",
@@ -3213,7 +3597,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2708,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on89021",
@@ -3225,7 +3612,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on89021.jpg"
     ],
     "source": "https://martdecor.online/product/okonchaniya-k-moldingu-rodecor-rokoko-05001rc-80-30-12/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 836 ₽/шт",
     "specs": {
       "Материал": "Окончание к молдингу",
       "Коллекция": "Царскосельский Рококо",
@@ -3235,7 +3622,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 836,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on89019",
@@ -3247,7 +3637,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on89019.jpg"
     ],
     "source": "https://martdecor.online/product/uglovoy-element-rodecor-rokoko-0307rrc-150-150-16-pravyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 946 ₽/шт",
     "specs": {
       "Материал": "Угловой элемент",
       "Коллекция": "Царскосельский Рококо",
@@ -3257,7 +3647,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3946,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on93533",
@@ -3269,7 +3662,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on93533.jpg"
     ],
     "source": "https://martdecor.online/product/pilyastra-dd201-2-4m/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 234 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Направление": "Лепной декор",
@@ -3277,7 +3670,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1234,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114100",
@@ -3289,7 +3685,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114100.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx212/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 679 ₽/шт",
     "specs": {
       "Размер": "200 × 17 × 1,3 см",
       "Материал": "Duropolymer®",
@@ -3301,7 +3697,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3679,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114096",
@@ -3313,7 +3712,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114096.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx206-kontur-contour/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 037 ₽/шт",
     "specs": {
       "Размер": "200 × 18 × 1,8 см",
       "Материал": "Duropolymer®",
@@ -3324,7 +3723,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3037,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114093",
@@ -3336,7 +3738,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114093.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx195-gamburg-hamburg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 070 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 1,9 см",
       "Материал": "Duropolymer®",
@@ -3347,7 +3749,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2070,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114089",
@@ -3359,7 +3764,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114089.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx193-otuar-autoire/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 640 ₽/шт",
     "specs": {
       "Размер": "200 × 25 × 2,2 см",
       "Материал": "Duropolymer®",
@@ -3370,7 +3775,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 5640,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114085",
@@ -3382,7 +3790,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114085.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx191-vysokiy-podem-high-rise/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 895 ₽/шт",
     "specs": {
       "Размер": "200 × 21 × 2,1 см",
       "Материал": "Duropolymer®",
@@ -3394,7 +3802,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4895,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114080",
@@ -3406,7 +3817,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114080.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx187f-vysokiy-shtrih-high-line/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 371 ₽/шт",
     "specs": {
       "Размер": "200 × 7,5 × 1,2 см",
       "Материал": "Flex",
@@ -3417,7 +3828,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6371,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114076",
@@ -3429,7 +3843,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114076.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx186-kontur-contour/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 900 ₽/шт",
     "specs": {
       "Размер": "200 × 13,8 × 2,2 см",
       "Материал": "Duropolymer®",
@@ -3441,7 +3855,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114072",
@@ -3453,7 +3870,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114072.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx185-kaskad-cascade/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 063 ₽/шт",
     "specs": {
       "Размер": "200 × 12 × 2,5 см",
       "Материал": "Duropolymer®",
@@ -3464,7 +3881,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3063,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114067",
@@ -3476,7 +3896,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114067.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx173f-kontur-contour/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 540 ₽/шт",
     "specs": {
       "Размер": "200 × 10 × 1,6 см",
       "Материал": "Flex",
@@ -3488,7 +3908,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6540,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114063",
@@ -3500,7 +3923,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114063.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx173-kontur-contour/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 295 ₽/шт",
     "specs": {
       "Размер": "200 × 10 × 1,6 см",
       "Материал": "Duropolymer®",
@@ -3512,7 +3935,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1295,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114058",
@@ -3524,7 +3950,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114058.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx172f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 339 ₽/шт",
     "specs": {
       "Размер": "200 × 8,5 × 1,4 см",
       "Материал": "Flex",
@@ -3535,7 +3961,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6339,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114054",
@@ -3547,7 +3976,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114054.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx172/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 236 ₽/шт",
     "specs": {
       "Размер": "200 × 8,5 × 1,4 см",
       "Материал": "Duropolymer®",
@@ -3559,7 +3988,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1236,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114050",
@@ -3571,7 +4003,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114050.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx171-kvadrat-square/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 976 ₽/шт",
     "specs": {
       "Размер": "200 × 10 × 2,2 см",
       "Материал": "Duropolymer®",
@@ -3582,7 +4014,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1976,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114045",
@@ -3594,7 +4029,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114045.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx165f-kontur-contour/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 963 ₽/шт",
     "specs": {
       "Размер": "200 × 6,9 × 1,1 см",
       "Материал": "Flex",
@@ -3605,7 +4040,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4963,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114041",
@@ -3617,7 +4055,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114041.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx165-kontur-contour/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 176 ₽/шт",
     "specs": {
       "Размер": "200 × 6,9 × 1,1 см",
       "Материал": "Duropolymer®",
@@ -3629,7 +4067,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1176,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114037",
@@ -3641,7 +4082,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114037.jpg"
     ],
     "source": "https://martdecor.online/product/napolnyy-plintus-orac-decor-sx156-vershiny-high-heels/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 728 ₽/шт",
     "specs": {
       "Размер": "200 × 20,2 × 1,6 см",
       "Материал": "Duropolymer®",
@@ -3652,7 +4093,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 3728,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75861",
@@ -3664,7 +4108,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75861.jpg"
     ],
     "source": "https://martdecor.online/product/m527-molding-34h120h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 445 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3672,7 +4116,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1445,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75745",
@@ -3684,7 +4131,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75745.jpg"
     ],
     "source": "https://martdecor.online/product/m346-kryshka-zabora-115h332h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 508 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3692,7 +4139,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 4508,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75741",
@@ -3704,7 +4154,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75741.jpg"
     ],
     "source": "https://martdecor.online/product/m348-kryshka-zabora-115h442h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 670 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3712,7 +4162,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 5670,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75698",
@@ -3724,7 +4177,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75698.jpg"
     ],
     "source": "https://martdecor.online/product/b138-1-bossazh-30h250h400mm-naruzhnyy-ugol-zapil-pod-45/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 598 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3732,7 +4185,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 598,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75696",
@@ -3744,7 +4200,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75696.jpg"
     ],
     "source": "https://martdecor.online/product/m478-1-molding-47h120h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 495 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3752,7 +4208,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1495,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75694",
@@ -3764,7 +4223,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75694.jpg"
     ],
     "source": "https://martdecor.online/product/k188-1-karniz-200h330h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 258 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3772,7 +4231,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 6258,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75692",
@@ -3784,7 +4246,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75692.jpg"
     ],
     "source": "https://martdecor.online/product/b143-bossazh-40h500h500mm-zapil-pod-45-s-dvuh-storon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 498 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3792,7 +4254,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1498,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75690",
@@ -3804,7 +4269,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75690.jpg"
     ],
     "source": "https://martdecor.online/product/k255-karniz-97h120h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 029 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3812,7 +4277,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2029,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75688",
@@ -3824,7 +4292,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75688.jpg"
     ],
     "source": "https://martdecor.online/product/m133-1-molding-60h170h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 849 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3832,7 +4300,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 1849,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75686",
@@ -3844,7 +4315,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75686.jpg"
     ],
     "source": "https://martdecor.online/product/p112-podokonnik-94h150h2000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 338 ₽/шт",
     "specs": {
       "Материал": "Армированный полистирол",
       "Направление": "Лепной декор",
@@ -3852,7 +4323,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 2338,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115040",
@@ -3864,7 +4338,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115040.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-8-dp158/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -3877,7 +4351,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115031",
@@ -3889,7 +4366,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115031.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-7-dp157/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -3902,7 +4379,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115021",
@@ -3914,7 +4394,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115021.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-6-dp156/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -3927,7 +4407,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115012",
@@ -3939,7 +4422,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115012.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-5-dp155/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -3952,7 +4435,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115003",
@@ -3964,7 +4450,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115003.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-4-dp154/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -3977,7 +4463,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114994",
@@ -3989,7 +4478,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114994.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-3-dp153/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4002,7 +4491,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114985",
@@ -4014,7 +4506,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114985.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-2-dp152/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4027,7 +4519,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114973",
@@ -4039,7 +4534,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114973.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-tadimi-1-dp151/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 284 ₽/шт",
     "specs": {
       "Размер": "29,6 × 9,9 × 0,6 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4052,7 +4547,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 284,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114971",
@@ -4064,7 +4562,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114971.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-branded-2-dp138/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4077,7 +4575,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114969",
@@ -4089,7 +4590,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114969.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-branded-dp137/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4102,7 +4603,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114965",
@@ -4114,7 +4618,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114965.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-6-dp136/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4127,7 +4631,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114959",
@@ -4139,7 +4646,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114959.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-5-dp135/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4152,7 +4659,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114950",
@@ -4164,7 +4674,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114950.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-4-dp134/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4177,7 +4687,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114943",
@@ -4189,7 +4702,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114943.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-3-dp133/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4202,7 +4715,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114935",
@@ -4214,7 +4730,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114935.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-2-dp132/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4227,7 +4743,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114921",
@@ -4239,7 +4758,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114921.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-prime-1-dp131/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 7,9 × 1,2 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4252,7 +4771,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114918",
@@ -4264,7 +4786,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114918.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-branded-1-dp125/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 1 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4277,7 +4799,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114915",
@@ -4289,7 +4814,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114915.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-9-dp124-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4302,7 +4827,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114912",
@@ -4314,7 +4842,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114912.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-8-dp123-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4327,7 +4855,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114909",
@@ -4339,7 +4870,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114909.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-7-dp122-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4352,7 +4883,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114903",
@@ -4364,7 +4898,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114903.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-6-dp121-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4377,7 +4911,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114898",
@@ -4389,7 +4926,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114898.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-5-dp120-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4402,7 +4939,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114891",
@@ -4414,7 +4954,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114891.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-4-dp119-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4427,7 +4967,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114883",
@@ -4439,7 +4982,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114883.jpg"
     ],
     "source": "https://martdecor.online/product/3d-stenovaya-panel-decoplume-wave-3-dp118-slim/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 263 ₽/шт",
     "specs": {
       "Размер": "29,7 × 9,9 × 0,5 см",
       "Материал": "Композит на основе 100% переработанных полимеров",
@@ -4452,7 +4995,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "accent"
-    ]
+    ],
+    "priceValue": 263,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96756",
@@ -4464,7 +5010,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96756.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-cube-ex2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 209 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4473,7 +5019,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 209,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96755",
@@ -4485,7 +5034,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96755.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-cube-ex1/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 209 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4494,7 +5043,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 209,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96754",
@@ -4506,7 +5058,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96754.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-cube-solo/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 209 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4515,7 +5067,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 209,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96753",
@@ -4527,7 +5082,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96753.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-sirius/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 399 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4536,7 +5091,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 399,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96752",
@@ -4548,7 +5106,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96752.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-nord/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 204 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4557,7 +5115,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 204,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96751",
@@ -4569,7 +5130,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96751.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-luna/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 89 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4578,7 +5139,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 89,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96750",
@@ -4590,7 +5154,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96750.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-waterfall/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 690 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4599,7 +5163,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 690,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96749",
@@ -4611,7 +5178,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96749.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-stream-big/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 536 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4620,7 +5187,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 536,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96748",
@@ -4632,7 +5202,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96748.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-stream-small/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 328 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4641,7 +5211,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 328,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96747",
@@ -4653,7 +5226,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96747.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-coral/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 204 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4662,7 +5235,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 204,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96746",
@@ -4674,7 +5250,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96746.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-rombus/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 293 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4683,7 +5259,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 293,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96745",
@@ -4695,7 +5274,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96745.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-grand/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 384 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4704,7 +5283,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 384,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96744",
@@ -4716,7 +5298,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96744.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-kolos-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 238 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4725,7 +5307,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 238,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96743",
@@ -4737,7 +5322,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96743.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-kolos-1/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 238 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4746,7 +5331,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 238,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96742",
@@ -4758,7 +5346,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96742.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-mercury/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 184 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4767,7 +5355,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 184,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96741",
@@ -4779,7 +5370,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96741.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-oniks/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 35 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4788,7 +5379,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 35,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96740",
@@ -4800,7 +5394,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96740.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-meccano-1-5/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 606 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4809,7 +5403,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 606,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96739",
@@ -4821,7 +5418,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96739.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-tetris-led-neytralnyy-svet/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 135 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4830,7 +5427,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 1135,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96738",
@@ -4842,7 +5442,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96738.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-tetris-3/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 111 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4851,7 +5451,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 111,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96737",
@@ -4863,7 +5466,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96737.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-tetris-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 111 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4872,7 +5475,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 111,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96736",
@@ -4884,7 +5490,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96736.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-tetris-1/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 111 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4893,7 +5499,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 111,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96735",
@@ -4905,7 +5514,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96735.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-kvadro-mini/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 76 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4914,7 +5523,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 76,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96734",
@@ -4926,7 +5538,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96734.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-kvadro-gamma/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 307 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4935,7 +5547,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 307,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96733",
@@ -4947,7 +5562,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96733.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovye-3d-paneli-elementy-pero/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 267 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4956,7 +5571,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 267,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96405",
@@ -4968,7 +5586,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96405.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-moonlight-6/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 540 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4977,7 +5595,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 8540,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96403",
@@ -4989,7 +5610,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96403.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-moonlight-4/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 789 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -4998,7 +5619,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 9789,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96402",
@@ -5010,7 +5634,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96402.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-moonlight-3/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 717 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5019,7 +5643,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 6717,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96401",
@@ -5031,7 +5658,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96401.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-moonlight-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 14 104 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5040,7 +5667,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 14104,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96400",
@@ -5052,7 +5682,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96400.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-moonlight-1/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 351 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5061,7 +5691,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 9351,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96399",
@@ -5073,7 +5706,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96399.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-framework/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5082,7 +5715,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 19900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96398",
@@ -5094,7 +5730,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96398.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-gelios/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 27 400 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5103,7 +5739,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 27400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96397",
@@ -5115,7 +5754,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96397.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-pliada/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5124,7 +5763,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 18900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96396",
@@ -5136,7 +5778,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96396.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-fractality/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5145,7 +5787,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 18900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96395",
@@ -5157,7 +5802,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96395.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-kassiopea/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5166,7 +5811,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 18900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96394",
@@ -5178,7 +5826,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96394.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-levitation/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 29 000 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5187,7 +5835,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 29000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96393",
@@ -5199,7 +5850,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96393.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-basalt/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5208,7 +5859,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 19900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96392",
@@ -5220,7 +5874,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96392.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-obsidian/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 29 300 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5229,7 +5883,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 29300,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96391",
@@ -5241,7 +5898,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96391.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-abstractio/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5250,7 +5907,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 18900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96390",
@@ -5262,7 +5922,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96390.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-archeology/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 25 000 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5271,7 +5931,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 25000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on96389",
@@ -5283,7 +5946,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on96389.jpg"
     ],
     "source": "https://martdecor.online/product/gipsovoe-panno-sabbia/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 900 ₽/шт",
     "specs": {
       "Материал": "Гипс",
       "Цвет": "Белый",
@@ -5292,7 +5955,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "accent"
-    ]
+    ],
+    "priceValue": 19900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98757",
@@ -5304,7 +5970,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98757.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-g372-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5314,7 +5980,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98756",
@@ -5326,7 +5995,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98756.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-s369-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5336,7 +6005,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98755",
@@ -5348,7 +6020,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98755.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-s15-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5358,7 +6030,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98754",
@@ -5370,7 +6045,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98754.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-g216-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5380,7 +6055,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98753",
@@ -5392,7 +6070,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98753.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-gn69-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5402,7 +6080,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98752",
@@ -5414,7 +6095,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98752.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-s387-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5424,7 +6105,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98751",
@@ -5436,7 +6120,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98751.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-mp5-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5446,7 +6130,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98750",
@@ -5458,7 +6145,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98750.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-gr5-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5468,7 +6155,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98749",
@@ -5480,7 +6170,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98749.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-bk114-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5490,7 +6180,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98748",
@@ -5502,7 +6195,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98748.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-bu22-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5512,7 +6205,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98747",
@@ -5524,7 +6220,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98747.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-s369-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5534,7 +6230,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98746",
@@ -5546,7 +6245,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98746.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-s15-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5556,7 +6255,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98745",
@@ -5568,7 +6270,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98745.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-g372-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5578,7 +6280,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98744",
@@ -5590,7 +6295,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98744.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-g216-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5600,7 +6305,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98743",
@@ -5612,7 +6320,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98743.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-gn69-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5622,7 +6330,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98742",
@@ -5634,7 +6345,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98742.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-s387-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5644,7 +6355,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98741",
@@ -5656,7 +6370,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98741.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-mp5-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5666,7 +6380,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98740",
@@ -5678,7 +6395,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98740.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-gr5-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5688,7 +6405,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98739",
@@ -5700,7 +6420,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98739.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-gr15-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5710,7 +6430,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98738",
@@ -5722,7 +6445,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98738.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-bk114-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5732,7 +6455,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98737",
@@ -5744,7 +6470,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98737.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d12v1-bu22-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 650 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 1.2 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5754,7 +6480,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 650,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98736",
@@ -5766,7 +6495,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98736.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-y5-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5776,7 +6505,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98735",
@@ -5788,7 +6520,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98735.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-w49-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5798,7 +6530,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98734",
@@ -5810,7 +6545,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98734.jpg"
     ],
     "source": "https://martdecor.online/product/molding-d15v2-w41-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 800 ₽/шт",
     "specs": {
       "Размер": "ш. 1.5 х в. 1.5 х д. 270 см",
       "Материал": "Декорированные рейки",
@@ -5820,7 +6555,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "natural"
-    ]
+    ],
+    "priceValue": 800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98783",
@@ -5832,7 +6570,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98783.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm629-gr28-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5841,7 +6579,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98781",
@@ -5853,7 +6594,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98781.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm629-g19-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5862,7 +6603,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98780",
@@ -5874,7 +6618,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98780.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm629-br68-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5883,7 +6627,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98779",
@@ -5895,7 +6642,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98779.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm629-br56-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5904,7 +6651,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98778",
@@ -5916,7 +6666,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98778.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm629-br55-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5925,7 +6675,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98777",
@@ -5937,7 +6690,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98777.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-iv47-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5946,7 +6699,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98776",
@@ -5958,7 +6714,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98776.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-gr35-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5967,7 +6723,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98774",
@@ -5979,7 +6738,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98774.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-br71-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -5988,7 +6747,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98773",
@@ -6000,7 +6762,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98773.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-br70-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6009,7 +6771,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98772",
@@ -6021,7 +6786,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98772.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-br50-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6030,7 +6795,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98771",
@@ -6042,7 +6810,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98771.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm626-bk8-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6051,7 +6819,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98769",
@@ -6063,7 +6834,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98769.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm625-br72-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6072,7 +6843,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98768",
@@ -6084,7 +6858,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98768.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm625-iv15-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6093,7 +6867,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98767",
@@ -6105,7 +6882,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98767.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm625-gr36-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6114,7 +6891,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98766",
@@ -6126,7 +6906,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98766.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm625-gn4-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6135,7 +6915,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98765",
@@ -6147,7 +6930,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98765.jpg"
     ],
     "source": "https://martdecor.online/product/panel-dekorativnaya-maksimum-maximum-dm625-br48-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 900 ₽/шт",
     "specs": {
       "Размер": "ш. 0.4 х в. 60 х д. 300 см",
       "Материал": "Декоративные панели МАКСИМУМ / MAXIMUM",
@@ -6156,7 +6939,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 9900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98500",
@@ -6168,7 +6954,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98500.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf124b-br490k-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 950 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 3.1 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6177,7 +6963,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 950,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98499",
@@ -6189,7 +6978,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98499.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf124a-br490k-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 050 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 4.2 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6198,7 +6987,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1050,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98498",
@@ -6210,7 +7002,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98498.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf140b-br489g-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 500 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 2.6 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6219,7 +7011,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98497",
@@ -6231,7 +7026,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98497.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf140a-br489g-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 500 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 3.6 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6240,7 +7035,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98496",
@@ -6252,7 +7050,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98496.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf140b-br492-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 500 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 2.6 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6261,7 +7059,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98495",
@@ -6273,7 +7074,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98495.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf140a-br492-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 500 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 3.6 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6282,7 +7083,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98494",
@@ -6294,7 +7098,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98494.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf140b-br496-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 500 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 2.6 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6303,7 +7107,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98493",
@@ -6315,7 +7122,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98493.jpg"
     ],
     "source": "https://martdecor.online/product/finishnyy-molding-lf140a-br496-hiwood/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 500 ₽/шт",
     "specs": {
       "Размер": "ш. 1.2 х в. 3.6 х д. 270 см",
       "Материал": "Финишные молдинги для панелей",
@@ -6324,7 +7131,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95698",
@@ -6336,7 +7146,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95698.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-temnyy-grafit/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Темный графит",
@@ -6345,7 +7155,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95696",
@@ -6357,7 +7170,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95696.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-svetlyy-grafit/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Светлый графит",
@@ -6366,7 +7179,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95694",
@@ -6378,7 +7194,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95694.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-temnyy-oreh/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Темный орех",
@@ -6387,7 +7203,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95692",
@@ -6399,7 +7218,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95692.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-belaya-sosna/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Белая сосна",
@@ -6408,7 +7227,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95690",
@@ -6420,7 +7242,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95690.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-pepelnyy-dub/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Пепельный дуб",
@@ -6429,7 +7251,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95688",
@@ -6441,7 +7266,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95688.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-klassicheskiy-dub/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Классический дуб",
@@ -6450,7 +7275,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95686",
@@ -6462,7 +7290,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95686.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-dub-tryufel/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Дуб трюфель",
@@ -6471,7 +7299,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95683",
@@ -6483,7 +7314,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95683.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-30-80-19-dub-latte/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 776 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Дуб Латте",
@@ -6492,7 +7323,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 776,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95681",
@@ -6504,7 +7338,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95681.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-16-80-19-chernyy-antratsit/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 829 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Черный антрацит",
@@ -6513,7 +7347,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 829,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on95679",
@@ -6525,7 +7362,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on95679.jpg"
     ],
     "source": "https://martdecor.online/product/tsvetnoy-plintus-pl-16-80-19-staryy-massiv/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 829 ₽/шт",
     "specs": {
       "Материал": "Полистирол высокой плотности",
       "Цвет": "Старый массив",
@@ -6534,7 +7371,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 829,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75865",
@@ -6546,7 +7386,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75865.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-fossil-granit-fossil-granite-900h2900mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 23 000 ₽/лист",
     "specs": {
       "Направление": "Каменный шпон",
       "Вид материала": "Каменный шпон"
@@ -6554,7 +7394,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 23000,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75857",
@@ -6566,7 +7409,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75857.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-artik-shtorm-artic-storm-napravlenie-1220h2700mm-mramor-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 26 630 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6575,7 +7418,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 26630,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75855",
@@ -6587,7 +7433,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75855.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-tan-tan-1220h2700mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 23 950 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6596,7 +7442,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 23950,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75851",
@@ -6608,7 +7457,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75851.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-silviya-vayt-silviya-white-1220h2440mm-mramor/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 22 800 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6617,7 +7466,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 22800,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75827",
@@ -6629,7 +7481,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75827.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-blanko-blanco-610h1220mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 990 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6638,7 +7490,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 3990,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75814",
@@ -6650,7 +7505,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75814.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-reynforest-grin-rainforest-green-1220h2800mm-mramor/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 27 550 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6659,7 +7514,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 27550,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75812",
@@ -6671,7 +7529,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75812.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-di-blek-d-black-napravlenie-610h1220mm-slyuda/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 990 ₽/лист",
     "specs": {
       "Материал": "Слюда",
       "Направление": "Каменный шпон",
@@ -6680,7 +7538,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 3990,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75810",
@@ -6692,7 +7553,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75810.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-foling-livz-falling-leaves-610h1220mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 990 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6701,7 +7562,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 3990,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75808",
@@ -6713,7 +7577,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75808.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-tinos-grin-tinos-green-610h1220mm-mramor/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 100 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6722,7 +7586,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 5100,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75804",
@@ -6734,7 +7601,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75804.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-kaliforniya-gold-california-gold-610h1220mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 990 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6743,7 +7610,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 3990,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75802",
@@ -6755,7 +7625,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75802.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-antartika-reyn-antartica-rain-napravlenie-1220h2700mm-mramor-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 26 630 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6764,7 +7634,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 26630,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75791",
@@ -6776,7 +7649,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75791.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-antartika-reyn-antartica-rain-napravlenie-1220h2700mm-mramor/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 26 630 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6785,7 +7658,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 26630,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75786",
@@ -6797,7 +7673,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75786.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-kaper-copper-1220h2700mm-slyuda/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 23 950 ₽/лист",
     "specs": {
       "Материал": "Слюда",
       "Направление": "Каменный шпон",
@@ -6806,7 +7682,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 23950,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75784",
@@ -6818,7 +7697,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75784.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-silver-shayn-gold-silver-shine-gold-1220h2700mm-slyuda/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 23 950 ₽/лист",
     "specs": {
       "Материал": "Слюда",
       "Направление": "Каменный шпон",
@@ -6827,7 +7706,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 23950,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75782",
@@ -6839,7 +7721,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75782.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-sauf-grey-south-grey-1220h2700mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 23 950 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6848,7 +7730,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 23950,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75778",
@@ -6860,7 +7745,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75778.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-fentazi-vayt-fantasy-white-1220h2440mm-napravlenie-mramor-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 24 440 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6869,7 +7754,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 24440,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75776",
@@ -6881,7 +7769,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75776.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-fentazi-vayt-fantasy-white-1220h2440mm-napravlenie-mramor/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 24 440 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -6890,7 +7778,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 24440,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75774",
@@ -6902,7 +7793,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75774.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-foling-livz-falling-leaves-1220h2440mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 20 470 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6911,7 +7802,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 20470,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75772",
@@ -6923,7 +7817,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75772.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-blanko-blanco-1220h2440mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 20 470 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -6932,7 +7826,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 20470,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75770",
@@ -6944,7 +7841,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75770.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-berning-forest-burning-forest-1220h2440mm-slyuda/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 20 470 ₽/лист",
     "specs": {
       "Материал": "Слюда",
       "Направление": "Каменный шпон",
@@ -6953,7 +7850,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 20470,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75762",
@@ -6965,7 +7865,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75762.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-kaper-copper-1220h2440mm-slyuda/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 20 470 ₽/лист",
     "specs": {
       "Материал": "Слюда",
       "Направление": "Каменный шпон",
@@ -6974,7 +7874,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 20470,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75750",
@@ -6986,7 +7889,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75750.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-slate-lite-burning-forest-1220x610mm-0-74-m-kv/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 958 ₽/лист",
     "specs": {
       "Материал": "Слюда",
       "Направление": "Каменный шпон",
@@ -6995,7 +7898,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 6958,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75739",
@@ -7007,7 +7913,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75739.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-svetoprozrachnyy-foling-livz-falling-leaves-1220h2440mm-slanets/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 22 960 ₽/лист",
     "specs": {
       "Материал": "Сланец",
       "Направление": "Каменный шпон",
@@ -7016,7 +7922,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 22960,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on75737",
@@ -7028,7 +7937,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on75737.jpg"
     ],
     "source": "https://martdecor.online/product/kamennyy-shpon-fentazi-vayt-fantasy-white-napravlenie-1220h2700mm-mramor-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 26 630 ₽/лист",
     "specs": {
       "Материал": "Мрамор",
       "Направление": "Каменный шпон",
@@ -7037,7 +7946,10 @@ window.PRODUCTS = [
     "styles": [
       "natural",
       "accent"
-    ]
+    ],
+    "priceValue": 26630,
+    "priceUnit": "лист",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98952",
@@ -7049,7 +7961,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98952.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1020-bricks/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 700 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7060,7 +7972,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 8700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98946",
@@ -7072,7 +7987,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98946.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1019-ripple/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 700 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7083,7 +7998,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 8700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98945",
@@ -7095,7 +8013,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98945.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1018-bricks-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 700 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7106,7 +8024,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 8700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98944",
@@ -7118,7 +8039,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98944.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1017-ripple-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 700 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7129,7 +8050,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 8700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98943",
@@ -7141,7 +8065,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98943.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1016-bricks-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 700 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7152,7 +8076,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 8700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98942",
@@ -7164,7 +8091,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98942.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1051-ocean-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 950 ₽/шт",
     "specs": {
       "Размер": "240 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7175,7 +8102,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6950,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98941",
@@ -7187,7 +8117,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98941.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1050-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7198,7 +8128,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98940",
@@ -7210,7 +8143,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98940.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1015-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7221,7 +8154,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98939",
@@ -7233,7 +8169,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98939.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1014-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7244,7 +8180,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98938",
@@ -7256,7 +8195,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98938.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1013-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7267,7 +8206,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98937",
@@ -7279,7 +8221,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98937.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1012-ocean-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 950 ₽/шт",
     "specs": {
       "Размер": "240 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7290,7 +8232,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6950,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98936",
@@ -7302,7 +8247,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98936.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1011-ocean-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 950 ₽/шт",
     "specs": {
       "Размер": "240 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7313,7 +8258,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6950,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98935",
@@ -7325,7 +8273,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98935.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1010-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7336,7 +8284,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98934",
@@ -7348,7 +8299,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98934.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1009-travertine-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7359,7 +8310,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98933",
@@ -7371,7 +8325,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98933.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1008-steps-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 950 ₽/шт",
     "specs": {
       "Размер": "280 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7382,7 +8336,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6950,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98932",
@@ -7394,7 +8351,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98932.jpg"
     ],
     "source": "https://martdecor.online/product/gibkiy-kamen-decaro-wallpanels-flex-stone-d1007-striped-stone-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/шт",
     "specs": {
       "Размер": "280 × 120 см",
       "Коллекция": "Flex Stone",
@@ -7405,7 +8362,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99049",
@@ -7417,7 +8377,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99049.jpg"
     ],
     "source": "https://martdecor.online/product/radiusnyy-element-decaro-wallpanels-wood-d1105r/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Размер": "300 × 16 см",
       "Коллекция": "Wood",
@@ -7428,7 +8388,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99045",
@@ -7440,7 +8403,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99045.jpg"
     ],
     "source": "https://martdecor.online/product/radiusnyy-element-decaro-wallpanels-wood-d1104r/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Размер": "300 × 16 см",
       "Коллекция": "Wood",
@@ -7451,7 +8414,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99041",
@@ -7463,7 +8429,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99041.jpg"
     ],
     "source": "https://martdecor.online/product/radiusnyy-element-decaro-wallpanels-wood-d1102r/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Размер": "300 × 16 см",
       "Коллекция": "Wood",
@@ -7474,7 +8440,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99035",
@@ -7486,7 +8455,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99035.jpg"
     ],
     "source": "https://martdecor.online/product/radiusnyy-element-decaro-wallpanels-wood-d1101r/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Размер": "300 × 16 см",
       "Коллекция": "Wood",
@@ -7497,7 +8466,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99030",
@@ -7509,7 +8481,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99030.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-metal-d1134/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 900 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Metal",
@@ -7520,7 +8492,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99026",
@@ -7532,7 +8507,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99026.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-metal-d1133/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 900 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Metal",
@@ -7543,7 +8518,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99023",
@@ -7555,7 +8533,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99023.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-metal-d1132/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 900 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Metal",
@@ -7566,7 +8544,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6900,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99017",
@@ -7578,7 +8559,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99017.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-metal-d1130/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Metal",
@@ -7589,7 +8570,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99011",
@@ -7601,7 +8585,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99011.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-textile-d1121/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 000 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Textile",
@@ -7612,7 +8596,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99007",
@@ -7624,7 +8611,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99007.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-textile-d1120/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 000 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Textile",
@@ -7635,7 +8622,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99003",
@@ -7647,7 +8637,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99003.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-wood-d1106/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7658,7 +8648,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 5500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98996",
@@ -7670,7 +8663,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98996.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-wood-d1104/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7681,7 +8674,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98992",
@@ -7693,7 +8689,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98992.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-wood-d1103/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7704,7 +8700,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 5500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98986",
@@ -7716,7 +8715,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98986.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-wood-d1102/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7727,7 +8726,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 5500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98982",
@@ -7739,7 +8741,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98982.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-wood-d1101/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 500 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7750,7 +8752,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 5500,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98976",
@@ -7762,7 +8767,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98976.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-signature-wood-d1115/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7773,7 +8778,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98973",
@@ -7785,7 +8793,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98973.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-signature-wood-d1114/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7796,7 +8804,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98969",
@@ -7808,7 +8819,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98969.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-signature-wood-d1113/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7819,7 +8830,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98965",
@@ -7831,7 +8845,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98965.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-signature-wood-d1112/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7842,7 +8856,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98962",
@@ -7854,7 +8871,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98962.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-signature-wood-d1111/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7865,7 +8882,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98958",
@@ -7877,7 +8897,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98958.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-panel-decaro-wallpanels-signature-wood-d1110/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 600 ₽/шт",
     "specs": {
       "Размер": "300 × 120 см",
       "Коллекция": "Wood",
@@ -7888,7 +8908,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6600,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98080",
@@ -7900,7 +8923,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98080.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-stenovaya-wpc-panel-pod-tkan-bm-63t09-110-x-280-sm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 400 ₽/шт",
     "specs": {
       "Материал": "Бамбуковое волокно + полимерные связующие (WPC/SPC)",
       "Направление": "Панели",
@@ -7908,7 +8931,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 18400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98079",
@@ -7920,7 +8946,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98079.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-stenovaya-wpc-panel-pod-tkan-bm-63t03-110-x-300-sm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 400 ₽/шт",
     "specs": {
       "Материал": "Бамбуковое волокно + полимерные связующие (WPC/SPC)",
       "Направление": "Панели",
@@ -7928,7 +8954,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 18400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on98078",
@@ -7940,7 +8969,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on98078.jpg"
     ],
     "source": "https://martdecor.online/product/bambukovaya-stenovaya-wpc-panel-pod-tkan-bm-60t15-110-x-300-sm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 400 ₽/шт",
     "specs": {
       "Материал": "Бамбуковое волокно + полимерные связующие (WPC/SPC)",
       "Направление": "Панели",
@@ -7948,7 +8977,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 18400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342517",
@@ -7960,7 +8992,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342517.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-20060/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -7969,7 +9001,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342516",
@@ -7981,7 +9016,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342516.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-20015/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -7990,7 +9025,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342515",
@@ -8002,7 +9040,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342515.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-20010/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8011,7 +9049,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342513",
@@ -8023,7 +9064,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342513.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10694/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8032,7 +9073,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342512",
@@ -8044,7 +9088,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342512.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10693/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8053,7 +9097,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342510",
@@ -8065,7 +9112,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342510.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10691/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8074,7 +9121,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342509",
@@ -8086,7 +9136,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342509.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10690/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8095,7 +9145,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342508",
@@ -8107,7 +9160,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342508.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10685/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8116,7 +9169,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342507",
@@ -8128,7 +9184,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342507.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10684/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8137,7 +9193,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342506",
@@ -8149,7 +9208,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342506.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10683/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8158,7 +9217,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342505",
@@ -8170,7 +9232,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342505.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10682/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8179,7 +9241,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342504",
@@ -8191,7 +9256,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342504.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10681/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8200,7 +9265,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342503",
@@ -8212,7 +9280,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342503.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10680/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8221,7 +9289,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342502",
@@ -8233,7 +9304,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342502.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10679/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8242,7 +9313,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342501",
@@ -8254,7 +9328,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342501.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10678/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8263,7 +9337,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342500",
@@ -8275,7 +9352,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342500.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10677/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8284,7 +9361,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342499",
@@ -8296,7 +9376,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342499.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10676/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8305,7 +9385,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342498",
@@ -8317,7 +9400,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342498.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10675/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8326,7 +9409,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342497",
@@ -8338,7 +9424,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342497.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10671/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8347,7 +9433,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342496",
@@ -8359,7 +9448,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342496.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10670/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8368,7 +9457,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342495",
@@ -8380,7 +9472,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342495.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10661/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 36 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8389,7 +9481,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 36500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342494",
@@ -8401,7 +9496,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342494.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10660/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 36 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8410,7 +9505,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 36500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342493",
@@ -8422,7 +9520,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342493.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10652/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8431,7 +9529,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342492",
@@ -8443,7 +9544,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342492.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10651/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8452,7 +9553,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342491",
@@ -8464,7 +9568,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342491.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10650/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 500 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8473,7 +9577,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 19500,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342490",
@@ -8485,7 +9592,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342490.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10645/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8494,7 +9601,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342489",
@@ -8506,7 +9616,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342489.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10644/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8515,7 +9625,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342488",
@@ -8527,7 +9640,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342488.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10643/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8536,7 +9649,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342487",
@@ -8548,7 +9664,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342487.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10642/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8557,7 +9673,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342486",
@@ -8569,7 +9688,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342486.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10641/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8578,7 +9697,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342485",
@@ -8590,7 +9712,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342485.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10640/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8599,7 +9721,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342484",
@@ -8611,7 +9736,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342484.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10635/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8620,7 +9745,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342483",
@@ -8632,7 +9760,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342483.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10634/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8641,7 +9769,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342482",
@@ -8653,7 +9784,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342482.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10633/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8662,7 +9793,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342481",
@@ -8674,7 +9808,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342481.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10632/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8683,7 +9817,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on342480",
@@ -8695,7 +9832,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on342480.jpg"
     ],
     "source": "https://martdecor.online/product/oboi-sirpi-missoni-home-6-10631/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 200 ₽/рулон",
     "specs": {
       "Коллекция": "Missoni Home 6",
       "Страна": "Италия",
@@ -8704,7 +9841,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "classic"
-    ]
+    ],
+    "priceValue": 17200,
+    "priceUnit": "рулон",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275316",
@@ -8716,7 +9856,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275316.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-frost-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 600 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8727,7 +9867,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 4600,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275314",
@@ -8739,7 +9882,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275314.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-turin/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 500 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8750,7 +9893,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 6500,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275313",
@@ -8762,7 +9908,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275313.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-sitsiliya/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 700 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8773,7 +9919,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5700,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275312",
@@ -8785,7 +9934,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275312.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-sinteko/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 000 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8796,7 +9945,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5000,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275311",
@@ -8808,7 +9960,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275311.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-santorini/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 700 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8819,7 +9971,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5700,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275310",
@@ -8831,7 +9986,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275310.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-palermo/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 100 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8842,7 +9997,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 7100,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275309",
@@ -8854,7 +10012,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275309.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-nitstsa/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 900 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8865,7 +10023,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5900,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275308",
@@ -8877,7 +10038,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275308.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-lion-2/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 400 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8888,7 +10049,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5400,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275307",
@@ -8900,7 +10064,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275307.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-lion/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 900 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8911,7 +10075,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 4900,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275306",
@@ -8923,7 +10090,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275306.jpg"
     ],
     "source": "https://martdecor.online/product/freski-wall-street-faktury-fresok-korsika/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 700 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8934,7 +10101,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5700,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275305",
@@ -8946,7 +10116,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275305.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-florentina-superfasad/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 990 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8957,7 +10127,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 9990,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275304",
@@ -8969,7 +10142,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275304.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-florentina/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 990 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -8980,7 +10153,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 7990,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275303",
@@ -8992,7 +10168,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275303.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-flora/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 990 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9003,7 +10179,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5990,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275302",
@@ -9015,7 +10194,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275302.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-flok-superfasad/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 990 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9026,7 +10205,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 7990,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275301",
@@ -9038,7 +10220,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275301.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-flok/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 890 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9049,7 +10231,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5890,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275300",
@@ -9061,7 +10246,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275300.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-filigrana/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 390 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9072,7 +10257,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 5390,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275299",
@@ -9084,7 +10272,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275299.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-sahara/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 610 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9095,7 +10283,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 6610,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275298",
@@ -9107,7 +10298,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275298.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-krakelyur-serebro/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 390 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9118,7 +10309,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 9390,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275297",
@@ -9130,7 +10324,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275297.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-krakelyur-zoloto/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 390 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9141,7 +10335,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 9390,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275296",
@@ -9153,7 +10350,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275296.jpg"
     ],
     "source": "https://martdecor.online/product/freski-ortograf-faktury-fresok-krakelyur/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 890 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9164,7 +10361,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 8890,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275295",
@@ -9176,7 +10376,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275295.jpg"
     ],
     "source": "https://martdecor.online/product/freski-applico-faktury-fresok-terra/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 150 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9187,7 +10387,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 7150,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275294",
@@ -9199,7 +10402,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275294.jpg"
     ],
     "source": "https://martdecor.online/product/freski-applico-faktury-fresok-presto/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 950 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9210,7 +10413,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 4950,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275293",
@@ -9222,7 +10428,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275293.jpg"
     ],
     "source": "https://martdecor.online/product/freski-applico-faktury-fresok-papirus/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 450 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9233,7 +10439,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 7450,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on275292",
@@ -9245,7 +10454,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on275292.jpg"
     ],
     "source": "https://martdecor.online/product/freski-applico-faktury-fresok-oro/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 900 ₽/м²",
     "specs": {
       "Коллекция": "Фактуры фресок",
       "Страна": "Россия",
@@ -9256,7 +10465,10 @@ window.PRODUCTS = [
     "styles": [
       "classic",
       "accent"
-    ]
+    ],
+    "priceValue": 6900,
+    "priceUnit": "м²",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115409",
@@ -9268,7 +10480,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115409.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-standart-9-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 507 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9277,7 +10489,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 6507,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115408",
@@ -9289,7 +10504,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115408.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-standart-4-5-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 243 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9298,7 +10513,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3243,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115407",
@@ -9310,7 +10528,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115407.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-standart-9-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 507 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9319,7 +10537,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 6507,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115405",
@@ -9331,7 +10552,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115405.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-standart-4-5-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 243 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9340,7 +10561,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3243,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115404",
@@ -9352,7 +10576,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115404.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-master-9-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 845 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9361,7 +10585,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 8845,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115403",
@@ -9373,7 +10600,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115403.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-master-4-5-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 033 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9382,7 +10609,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 5033,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115402",
@@ -9394,7 +10624,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115402.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-master-9-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 845 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9403,7 +10633,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 8845,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115400",
@@ -9415,7 +10648,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115400.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-master-4-5-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 033 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9424,7 +10657,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 5033,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115399",
@@ -9436,7 +10672,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115399.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-lotos-9-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 624 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9445,7 +10681,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 10624,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115398",
@@ -9457,7 +10696,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115398.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-lotos-4-5-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 948 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9466,7 +10705,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 5948,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115397",
@@ -9478,7 +10720,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115397.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-lotos-9-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 624 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9487,7 +10729,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 10624,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115395",
@@ -9499,7 +10744,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115395.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-solo-fasad-lotos-4-5-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 948 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9508,7 +10753,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 5948,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115394",
@@ -9520,7 +10768,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115394.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-mons-eksterer-exterior-4-5-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 12 700 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9529,7 +10777,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 12700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115393",
@@ -9541,7 +10792,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115393.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-mons-eksterer-exterior-4-5-l-baza-d/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 12 700 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9550,7 +10801,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 12700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115391",
@@ -9562,7 +10816,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115391.jpg"
     ],
     "source": "https://martdecor.online/product/fasadnaya-kraska-lanors-mons-eksterer-exterior-4-5-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 12 700 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9571,7 +10825,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 12700,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115388",
@@ -9583,7 +10840,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115388.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-matovaya-2-5-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 243 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9592,7 +10849,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3243,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115386",
@@ -9604,7 +10864,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115386.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-matovaya-2-5-l-baza-d/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 243 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9613,7 +10873,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3243,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115385",
@@ -9625,7 +10888,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115385.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-matovaya-1-l-baza-d/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 576 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9634,7 +10897,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 1576,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115384",
@@ -9646,7 +10912,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115384.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-matovaya-2-5-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 243 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9655,7 +10921,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3243,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115382",
@@ -9667,7 +10936,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115382.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-matovaya-1-l-baza-p/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 576 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9676,7 +10945,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 1576,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115381",
@@ -9688,7 +10960,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115381.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-glyantsevaya-2-5-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 457 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9697,7 +10969,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3457,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115380",
@@ -9709,7 +10984,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115380.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-glyantsevaya-1-l-baza-tr/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 678 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9718,7 +10993,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 1678,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115379",
@@ -9730,7 +11008,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115379.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-glyantsevaya-2-5-l-baza-d/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 457 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9739,7 +11017,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 3457,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115378",
@@ -9751,7 +11032,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on115378.jpg"
     ],
     "source": "https://martdecor.online/product/interernaya-kraska-lanors-solo-emal-glyantsevaya-1-l-baza-d/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 678 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Краски и штукатурки",
@@ -9760,7 +11041,10 @@ window.PRODUCTS = [
     "styles": [
       "modern",
       "classic"
-    ]
+    ],
+    "priceValue": 1678,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115498",
@@ -9772,14 +11056,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115498.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-solo-strukturnaya-15-kg-1-5-mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 423 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 4423,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115497",
@@ -9791,14 +11078,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115497.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-solo-koroed-15-kg-2-mm-silikon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 659 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6659,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115496",
@@ -9810,14 +11100,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115496.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-solo-koroed-15-kg-1-5-mm-silikon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 659 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6659,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115490",
@@ -9829,14 +11122,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115490.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-solo-koroed-15-kg-1-5-mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 524 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 4524,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115486",
@@ -9848,14 +11144,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115486.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-harvi-harvey-3-5-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 11 387 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 11387,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115482",
@@ -9867,14 +11166,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115482.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-stenli-stanley-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 778 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7778,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115478",
@@ -9886,14 +11188,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115478.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-rapid-rapid-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 9 862 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 9862,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115476",
@@ -9905,14 +11210,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115476.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-monfort-monfort-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 878 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 10878,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115474",
@@ -9924,14 +11232,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115474.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-lider-leader-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 982 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 4982,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115473",
@@ -9943,14 +11254,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115473.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-lamark-lamarck-15-kg-baza-c/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 11 336 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 11336,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115472",
@@ -9962,14 +11276,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115472.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-lamark-lamarck-4-kg-baza-c/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 609 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 3609,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115471",
@@ -9981,14 +11298,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115471.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-lamark-lamarck-15-kg-baza-a/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 11 336 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 11336,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115459",
@@ -10000,14 +11320,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115459.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-lamark-lamarck-4-kg-baza-a/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 609 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 3609,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115457",
@@ -10019,14 +11342,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115457.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-klark-clarke-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 507 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6507,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115455",
@@ -10038,14 +11364,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115455.jpg"
     ],
     "source": "https://martdecor.online/product/dekorativnaya-shtukaturka-lanors-kantri-country-15-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 12 353 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 12353,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115454",
@@ -10057,14 +11386,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115454.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-terri-terry-2-7-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 16 928 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 16928,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115452",
@@ -10076,14 +11408,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115452.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-terri-terry-1-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 066 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 7066,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115450",
@@ -10095,14 +11430,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115450.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-stellar-stellar-3-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 17 233 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 17233,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115449",
@@ -10114,14 +11452,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115449.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-snou-sneg-snow-3-kg-chameleon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 11 285 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 11285,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115447",
@@ -10133,14 +11474,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115447.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-snou-sneg-snow-3-kg-silver/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 11 285 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 11285,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115445",
@@ -10152,14 +11496,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115445.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-safari-safari-3-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 675 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 10675,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115444",
@@ -10171,14 +11518,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115444.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-satin-satin-3-kg-chameleon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 18 656 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 18656,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115443",
@@ -10190,14 +11540,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115443.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-satin-satin-1-kg-chameleon/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 100 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 6100,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115442",
@@ -10209,14 +11562,17 @@ window.PRODUCTS = [
       "assets/imported/ref-on115442.jpg"
     ],
     "source": "https://martdecor.online/product/arhitekturnaya-kraska-lanors-satin-satin-10-kg-gold/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 46 919 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Декоративные штукатурки"
     },
     "styles": [
       "natural"
-    ]
+    ],
+    "priceValue": 46919,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115568",
@@ -10228,13 +11584,16 @@ window.PRODUCTS = [
       "assets/imported/ref-on115568.jpg"
     ],
     "source": "https://martdecor.online/product/zaschitnyy-lak-lanors-nobi-nobi-0-9-l/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 735 ₽/шт",
     "specs": {
       "Цвет": "Бесцветный",
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 2735,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115566",
@@ -10246,13 +11605,16 @@ window.PRODUCTS = [
       "assets/imported/ref-on115566.jpg"
     ],
     "source": "https://martdecor.online/product/zaschitnyy-lak-lanors-nobi-nobi-2-5-l/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 425 ₽/шт",
     "specs": {
       "Цвет": "Бесцветный",
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 6425,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115563",
@@ -10264,12 +11626,15 @@ window.PRODUCTS = [
       "assets/imported/ref-on115563.jpg"
     ],
     "source": "https://martdecor.online/product/mramornyy-napolnitel-lanors-ekstender-extender-3-2-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 118 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 1118,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115562",
@@ -10281,12 +11646,15 @@ window.PRODUCTS = [
       "assets/imported/ref-on115562.jpg"
     ],
     "source": "https://martdecor.online/product/lessiruyuschee-pokrytie-lanors-florissant-florissant-2-5-l/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 812 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 6812,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115560",
@@ -10298,12 +11666,15 @@ window.PRODUCTS = [
       "assets/imported/ref-on115560.jpg"
     ],
     "source": "https://martdecor.online/product/lessiruyuschee-pokrytie-lanors-florissant-florissant-1-l/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 847 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 2847,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115559",
@@ -10315,12 +11686,15 @@ window.PRODUCTS = [
       "assets/imported/ref-on115559.jpg"
     ],
     "source": "https://martdecor.online/product/lessiruyuschee-pokrytie-lanors-feniks-phoenix-3-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 507 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 6507,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115557",
@@ -10332,12 +11706,15 @@ window.PRODUCTS = [
       "assets/imported/ref-on115557.jpg"
     ],
     "source": "https://martdecor.online/product/lessiruyuschee-pokrytie-lanors-feniks-phoenix-1-kg/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 338 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 2338,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on115556",
@@ -10349,12 +11726,15 @@ window.PRODUCTS = [
       "assets/imported/ref-on115556.jpg"
     ],
     "source": "https://martdecor.online/product/lessiruyuschee-pokrytie-lanors-mistik-mystic-3-kg-gold/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 19 571 ₽/шт",
     "specs": {
       "Направление": "Краски и штукатурки",
       "Вид материала": "Грунты и составы"
     },
-    "styles": []
+    "styles": [],
+    "priceValue": 19571,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114661",
@@ -10366,7 +11746,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114661.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-cx188/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 511 ₽/шт",
     "specs": {
       "Размер": "200 × 3,4 × 3 см",
       "Материал": "Duropolymer®",
@@ -10377,7 +11757,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1511,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114655",
@@ -10389,7 +11772,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114655.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c381-l3-lineynoe-svetodiodnoe-osveschenie/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 071 ₽/шт",
     "specs": {
       "Размер": "200 × 9,5 × 5 см",
       "Материал": "Purotouch®",
@@ -10400,7 +11783,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 7071,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114652",
@@ -10412,7 +11798,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114652.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c380-l3-lineynoe-svetodiodnoe-osveschenie/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 722 ₽/шт",
     "specs": {
       "Размер": "200 × 5 × 5 см",
       "Материал": "Purotouch®",
@@ -10423,7 +11809,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4722,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114648",
@@ -10435,7 +11824,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114648.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c373f-antonio-antonio/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 14 140 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 5 см",
       "Материал": "Flex",
@@ -10446,7 +11835,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 14140,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114645",
@@ -10458,7 +11850,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114645.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c373-antonio-antonio/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 884 ₽/шт",
     "specs": {
       "Размер": "200 × 8 × 5 см",
       "Материал": "Purotouch®",
@@ -10469,7 +11861,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 6884,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114642",
@@ -10481,7 +11876,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114642.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c362-zavitok-curve/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 290 ₽/шт",
     "specs": {
       "Размер": "200 × 5 × 5 см",
       "Материал": "Purotouch®",
@@ -10492,7 +11887,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 3290,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114639",
@@ -10504,7 +11902,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114639.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c361-kayma-stripe/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 638 ₽/шт",
     "specs": {
       "Размер": "200 × 5 × 5 см",
       "Материал": "Purotouch®",
@@ -10515,7 +11913,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 3638,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114635",
@@ -10527,7 +11928,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114635.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c358-svetovoy-put-rail/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 8 151 ₽/шт",
     "specs": {
       "Размер": "200 × 7,3 × 14 см",
       "Материал": "Purotouch®",
@@ -10538,7 +11939,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 8151,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on114632",
@@ -10550,7 +11954,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on114632.jpg"
     ],
     "source": "https://martdecor.online/product/profil-dlya-skrytogo-osvescheniya-orac-decor-c352-rovnyy-flat/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 681 ₽/шт",
     "specs": {
       "Размер": "200 × 7,6 × 17,1 см",
       "Материал": "Purotouch®",
@@ -10561,7 +11965,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 7681,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113971",
@@ -10573,7 +11980,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113971.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-cx196-u-stupeni-u-steps/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 400 ₽/шт",
     "specs": {
       "Размер": "200 × 11,3 × 4 см",
       "Материал": "Duropolymer®",
@@ -10584,7 +11991,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 2400,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113958",
@@ -10596,7 +12006,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113958.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c991/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 6 594 ₽/шт",
     "specs": {
       "Размер": "200 × 11 × 14 см",
       "Материал": "Purotouch®",
@@ -10607,7 +12017,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 6594,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113949",
@@ -10619,7 +12032,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113949.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c902f/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 10 746 ₽/шт",
     "specs": {
       "Размер": "200 × 10,3 × 10,3 см",
       "Материал": "Flex",
@@ -10630,7 +12043,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 10746,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113942",
@@ -10642,7 +12058,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113942.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c902/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 785 ₽/шт",
     "specs": {
       "Размер": "200 × 10,3 × 10,3 см",
       "Материал": "Purotouch®",
@@ -10654,7 +12070,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 3785,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113930",
@@ -10666,7 +12085,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113930.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c396-stupeni-steps/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 7 071 ₽/шт",
     "specs": {
       "Размер": "200 × 18,5 × 6,1 см",
       "Материал": "Purotouch®",
@@ -10677,7 +12096,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 7071,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113916",
@@ -10689,7 +12111,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113916.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c395-stupeni-steps/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 946 ₽/шт",
     "specs": {
       "Размер": "200 × 15,5 × 3,1 см",
       "Материал": "Purotouch®",
@@ -10700,7 +12122,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 5946,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113902",
@@ -10712,7 +12137,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113902.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c394-stupeni-steps/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 518 ₽/шт",
     "specs": {
       "Размер": "200 × 9,5 × 3,1 см",
       "Материал": "Purotouch®",
@@ -10723,7 +12148,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4518,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113890",
@@ -10735,7 +12163,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113890.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c391-stupeni-steps/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 5 768 ₽/шт",
     "specs": {
       "Размер": "200 × 6 × 16 см",
       "Материал": "Purotouch®",
@@ -10746,7 +12174,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 5768,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113881",
@@ -10758,7 +12189,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113881.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c390-stupeni-steps/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 280 ₽/шт",
     "specs": {
       "Размер": "200 × 6 × 10 см",
       "Материал": "Purotouch®",
@@ -10769,7 +12200,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4280,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113872",
@@ -10781,7 +12215,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113872.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c328/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 800 ₽/шт",
     "specs": {
       "Размер": "200 × 9 × 6,8 см",
       "Материал": "Purotouch®",
@@ -10792,7 +12226,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4800,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113865",
@@ -10804,7 +12241,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113865.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c324-otuar-autoire/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 3 841 ₽/шт",
     "specs": {
       "Размер": "200 × 8,3 × 3,4 см",
       "Материал": "Purotouch®",
@@ -10815,7 +12252,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 3841,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on113858",
@@ -10827,7 +12267,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on113858.jpg"
     ],
     "source": "https://martdecor.online/product/karniz-dlya-skrytogo-osvescheniya-orac-decor-c323/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 4 015 ₽/шт",
     "specs": {
       "Размер": "200 × 5,5 × 4,2 см",
       "Материал": "Purotouch®",
@@ -10839,7 +12279,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 4015,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77771",
@@ -10851,7 +12294,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77771.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-laconistiq-light-doors-pod-podsvetku-chernyy-muar-36x15-5x3000mm-15mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 723 ₽/шт",
     "specs": {
       "Размер": "36x15,5x3000мм",
       "Цвет": "Черный",
@@ -10860,7 +12303,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 723,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77770",
@@ -10872,7 +12318,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77770.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-laconistiq-light-doors-pod-podsvetku-chernyy-anodirovannyy-36x15-5x3000mm-15mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 978 ₽/шт",
     "specs": {
       "Размер": "36x15,5x3000мм",
       "Цвет": "Черный",
@@ -10881,7 +12327,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 978,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77743",
@@ -10893,7 +12342,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77743.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-max-serebryanyy-anodirovannyy-15x70x3000-60mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 070 ₽/шт",
     "specs": {
       "Размер": "15x70x3000",
       "Цвет": "Серебряный",
@@ -10902,7 +12351,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1070,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77742",
@@ -10914,7 +12366,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77742.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-max-svetlo-zolotoy-anodirovannyy-15x70x3000-60mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 070 ₽/шт",
     "specs": {
       "Размер": "15x70x3000",
       "Цвет": "Светло-золотой",
@@ -10923,7 +12375,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1070,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77741",
@@ -10935,7 +12390,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77741.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-max-belyy-matovyy-15x70x3000-60mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 973 ₽/шт",
     "specs": {
       "Размер": "15x70x3000",
       "Цвет": "Белый",
@@ -10944,7 +12399,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 973,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77740",
@@ -10956,7 +12414,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77740.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-max-chernyy-muar-15x70x3000-60mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 973 ₽/шт",
     "specs": {
       "Размер": "15x70x3000",
       "Цвет": "Черный",
@@ -10965,7 +12423,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 973,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77731",
@@ -10977,7 +12438,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77731.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-max-seryy-bez-pokrytiya-15x70x3000-60mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 739 ₽/шт",
     "specs": {
       "Размер": "15x70x3000",
       "Цвет": "Серый",
@@ -10986,7 +12447,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 739,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77730",
@@ -10998,7 +12462,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77730.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-regular-serebryanyy-anodirovannyy-13x38x3000-30mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 785 ₽/шт",
     "specs": {
       "Размер": "13x38x3000",
       "Цвет": "Серебряный",
@@ -11007,7 +12471,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 785,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77729",
@@ -11019,7 +12486,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77729.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-regular-svetlo-zolotoy-anodirovannyy-13x38x3000-30mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 785 ₽/шт",
     "specs": {
       "Размер": "13x38x3000",
       "Цвет": "Светло-золотой",
@@ -11028,7 +12495,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 785,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77728",
@@ -11040,7 +12510,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77728.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-regular-belyy-matovyy-poroshkovyy-13x38x3000-30mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 707 ₽/шт",
     "specs": {
       "Размер": "13x38x3000",
       "Цвет": "Белый",
@@ -11049,7 +12519,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 707,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77727",
@@ -11061,7 +12534,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77727.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-regular-chernyy-muar-13x38x3000-30mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 707 ₽/шт",
     "specs": {
       "Размер": "13x38x3000",
       "Цвет": "Черный",
@@ -11070,7 +12543,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 707,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77715",
@@ -11082,7 +12558,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77715.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-plintus-novel-regular-seryy-bez-pokrytiya-13x38x3000-30mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 577 ₽/шт",
     "specs": {
       "Размер": "13x38x3000",
       "Цвет": "Серый",
@@ -11091,7 +12567,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 577,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99601",
@@ -11103,7 +12582,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99601.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-decaro-invisible-i100-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 674 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Черный",
@@ -11112,7 +12591,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1674,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77329",
@@ -11124,7 +12606,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77329.jpg"
     ],
     "source": "https://martdecor.online/product/vstavka-laconistiq-dlya-skrytogo-plintusa-iz-udaroprochnogo-polistirola-belyy-bez-pokrytiya-100h13h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 598 ₽/шт",
     "specs": {
       "Размер": "100х13х3000мм",
       "Цвет": "Белый",
@@ -11133,7 +12615,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 598,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77324",
@@ -11145,7 +12630,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77324.jpg"
     ],
     "source": "https://martdecor.online/product/vstavka-laconistiq-dlya-skrytogo-plintusa-iz-udaroprochnogo-polistirola-belyy-bez-pokrytiya-80h13h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 502 ₽/шт",
     "specs": {
       "Размер": "80х13х3000мм",
       "Цвет": "Белый",
@@ -11154,7 +12639,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 502,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77323",
@@ -11166,7 +12654,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77323.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-laconistiq-strong-usilennyy-chernyy-muar-80h13-1h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 350 ₽/шт",
     "specs": {
       "Размер": "80х13,1х3000мм",
       "Цвет": "Черный",
@@ -11175,7 +12663,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1350,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77322",
@@ -11187,7 +12678,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77322.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-laconistiq-strong-usilennyy-chernyy-matovyy-poroshkovyy-80h13-1h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 350 ₽/шт",
     "specs": {
       "Размер": "80х13,1х3000мм",
       "Цвет": "Черный",
@@ -11196,7 +12687,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1350,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77302",
@@ -11208,7 +12702,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77302.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-laconistiq-strong-usilennyy-seryy-bez-pokrytiya-80h13-1h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 984 ₽/шт",
     "specs": {
       "Размер": "80х13,1х3000мм",
       "Цвет": "Серый",
@@ -11217,7 +12711,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 984,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77301",
@@ -11229,7 +12726,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77301.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-laconistiq-regular-chernyy-muar-80h13h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 074 ₽/шт",
     "specs": {
       "Размер": "80х13х3000мм",
       "Цвет": "Черный",
@@ -11238,7 +12735,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1074,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77300",
@@ -11250,7 +12750,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77300.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-laconistiq-regular-chernyy-matovyy-poroshkovyy-80h13h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 074 ₽/шт",
     "specs": {
       "Размер": "80х13х3000мм",
       "Цвет": "Черный",
@@ -11259,7 +12759,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1074,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77274",
@@ -11271,7 +12774,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77274.jpg"
     ],
     "source": "https://martdecor.online/product/skrytyy-plintus-laconistiq-regular-seryy-bez-pokrytiya-80h13h3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 808 ₽/шт",
     "specs": {
       "Размер": "80х13х3000мм",
       "Цвет": "Серый",
@@ -11280,7 +12783,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 808,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on78007",
@@ -11292,7 +12798,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on78007.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-light-panel-chernyy-anodirovannyy-44x17x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 076 ₽/шт",
     "specs": {
       "Размер": "44x17x3000мм",
       "Цвет": "Черный",
@@ -11301,7 +12807,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1076,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77990",
@@ -11313,7 +12822,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77990.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-struk-muar-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 401 ₽/шт",
     "specs": {
       "Цвет": "Черный",
       "Направление": "Профили и подсветка",
@@ -11321,7 +12830,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1401,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77989",
@@ -11333,7 +12845,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77989.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-struk-muar-belyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 401 ₽/шт",
     "specs": {
       "Цвет": "Белый",
       "Направление": "Профили и подсветка",
@@ -11341,7 +12853,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1401,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77988",
@@ -11353,7 +12868,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77988.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-struk-anodirovannyy-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 401 ₽/шт",
     "specs": {
       "Цвет": "Черный",
       "Направление": "Профили и подсветка",
@@ -11361,7 +12876,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1401,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77976",
@@ -11373,7 +12891,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77976.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-struk-bez-pokrytiya-bez-pokrytiya/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 026 ₽/шт",
     "specs": {
       "Цвет": "Без покрытия",
       "Направление": "Профили и подсветка",
@@ -11381,7 +12899,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1026,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77785",
@@ -11393,7 +12914,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77785.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-dual-chernyy-muar-46-7x31x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 315 ₽/шт",
     "specs": {
       "Размер": "46,7x31x3000мм",
       "Цвет": "Черный",
@@ -11402,7 +12923,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1315,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77784",
@@ -11414,7 +12938,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77784.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-dual-chernyy-anodirovannyy-46-7x31x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 315 ₽/шт",
     "specs": {
       "Размер": "46,7x31x3000мм",
       "Цвет": "Черный",
@@ -11423,7 +12947,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1315,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77783",
@@ -11435,7 +12962,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77783.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-dual-svetlo-zolotoy-anodirovannyy-46-7x31x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 315 ₽/шт",
     "specs": {
       "Размер": "46,7x31x3000мм",
       "Цвет": "Светло-золотой",
@@ -11444,7 +12971,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1315,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77772",
@@ -11456,7 +12986,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77772.jpg"
     ],
     "source": "https://martdecor.online/product/tenevaya-reyka-laconistiq-multilevel-dual-seryy-bez-pokrytiya-46-7x31x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 020 ₽/шт",
     "specs": {
       "Размер": "46,7x31x3000мм",
       "Цвет": "Серый",
@@ -11465,7 +12995,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1020,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77764",
@@ -11477,7 +13010,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77764.jpg"
     ],
     "source": "https://martdecor.online/product/baza-108mm-dlya-reguliruemogo-profilya-universal-panel-gips-chernyy-anodirovannyy-108x1-7x3000mm-0-80mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 478 ₽/шт",
     "specs": {
       "Размер": "108x1,7x3000мм",
       "Цвет": "Черный",
@@ -11486,7 +13019,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1478,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77757",
@@ -11498,7 +13034,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77757.jpg"
     ],
     "source": "https://martdecor.online/product/profil-tenevoy-reguliruemyy-universal-gips-chernyy-anodirovannyy-13-1x25x3000/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 642 ₽/шт",
     "specs": {
       "Размер": "13,1x25x3000",
       "Цвет": "Черный",
@@ -11507,7 +13043,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 642,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77744",
@@ -11519,7 +13058,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77744.jpg"
     ],
     "source": "https://martdecor.online/product/profil-tenevoy-reguliruemyy-universal-panel-chernyy-anodirovannyy-18-1x21-5x3000/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 725 ₽/шт",
     "specs": {
       "Размер": "18,1x21,5x3000",
       "Цвет": "Черный",
@@ -11528,7 +13067,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 725,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99483",
@@ -11540,7 +13082,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99483.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-profil-decaro-d006-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 2 074 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Черный",
@@ -11549,7 +13091,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 2074,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99479",
@@ -11561,7 +13106,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99479.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-profil-decaro-d006-pod-pokrasku/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 568 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Под покраску",
@@ -11570,7 +13115,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1568,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99469",
@@ -11582,7 +13130,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99469.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-profil-decaro-d005-2-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 000 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Черный",
@@ -11591,7 +13139,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99464",
@@ -11603,7 +13154,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99464.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-profil-decaro-d005-2-pod-pokrasku/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 684 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Под покраску",
@@ -11612,7 +13163,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 684,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99454",
@@ -11624,7 +13178,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99454.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-profil-decaro-d005-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 232 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Черный",
@@ -11633,7 +13187,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1232,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99449",
@@ -11645,7 +13202,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99449.jpg"
     ],
     "source": "https://martdecor.online/product/potolochnyy-profil-decaro-d005-pod-pokrasku/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 895 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Под покраску",
@@ -11654,7 +13211,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 895,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77691",
@@ -11666,7 +13226,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77691.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-potolochnyy-profil-dlya-shtor-gardina-chernyy-anodirovannyy-muar-50x14x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 078 ₽/шт",
     "specs": {
       "Размер": "50x14x3000мм",
       "Цвет": "Черный анодированный",
@@ -11675,7 +13235,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1078,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77690",
@@ -11687,7 +13250,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77690.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-potolochnyy-profil-dlya-shtor-gardina-belyy-matovyy-poroshkovyy-50x14x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 078 ₽/шт",
     "specs": {
       "Размер": "50x14x3000мм",
       "Цвет": "Белый",
@@ -11696,7 +13259,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1078,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77682",
@@ -11708,7 +13274,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77682.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-potolochnyy-profil-dlya-shtor-gardina-seryy-bez-pokrytiya-50x14x3000mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 881 ₽/шт",
     "specs": {
       "Размер": "50x14x3000мм",
       "Цвет": "Серый",
@@ -11717,7 +13283,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 881,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77681",
@@ -11729,7 +13298,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77681.jpg"
     ],
     "source": "https://martdecor.online/product/tenevoy-potolochnyy-karniz-laconistiq-gips-ultra-belyy-muar-42-5h37h3000mm-18mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 093 ₽/шт",
     "specs": {
       "Размер": "42,5х37х3000мм",
       "Цвет": "Белый",
@@ -11738,7 +13307,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1093,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99594",
@@ -11750,7 +13322,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99594.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-ml15a-titan/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 000 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "титан",
@@ -11759,7 +13331,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99590",
@@ -11771,7 +13346,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99590.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-ml15a-bronza/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 1 000 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Бронза",
@@ -11780,7 +13355,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 1000,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99586",
@@ -11792,7 +13370,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99586.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-ml15a-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 937 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Черный",
@@ -11801,7 +13379,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 937,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99582",
@@ -11813,7 +13394,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99582.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-m15a-latun/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 789 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "латунь",
@@ -11822,7 +13403,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 789,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99580",
@@ -11834,7 +13418,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99580.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-m15a-bronza/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 789 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Бронза",
@@ -11843,7 +13427,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 789,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on99576",
@@ -11855,7 +13442,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on99576.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-decaro-m15a-chernyy/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 684 ₽/шт",
     "specs": {
       "Материал": "алюминий",
       "Цвет": "Черный",
@@ -11864,7 +13451,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 684,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77540",
@@ -11876,7 +13466,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77540.jpg"
     ],
     "source": "https://martdecor.online/product/zaglushka-light-pravaya-dlya-mikroplintusa-light-chernyy-anodirovannyy-25mm-ral-9005/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 425 ₽/шт",
     "specs": {
       "Размер": "25мм",
       "Цвет": "Черный",
@@ -11885,7 +13475,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 425,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77534",
@@ -11897,7 +13490,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77534.jpg"
     ],
     "source": "https://martdecor.online/product/zaglushka-light-levaya-dlya-mikroplintusa-light-chernyy-anodirovannyy-25mm-ral-9005/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 425 ₽/шт",
     "specs": {
       "Размер": "25мм",
       "Цвет": "Черный",
@@ -11906,7 +13499,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 425,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77422",
@@ -11918,7 +13514,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77422.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-light-chernyy-anodirovannyy-25h16h5h2450mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 948 ₽/шт",
     "specs": {
       "Размер": "25х16х5х2450мм",
       "Цвет": "Черный",
@@ -11927,7 +13523,10 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 948,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   },
   {
     "id": "ref-on77172",
@@ -11939,7 +13538,7 @@ window.PRODUCTS = [
       "assets/imported/ref-on77172.jpg"
     ],
     "source": "https://martdecor.online/product/mikroplintus-laconistiq-l-max-svetlyy-shampan-anodirovannyy-2450h35-6h16-2h4-9mm/",
-    "priceLabel": "Цена по запросу",
+    "priceLabel": "от 976 ₽/шт",
     "specs": {
       "Размер": "2450х35,6х16,2х4,9мм",
       "Цвет": "Светлый-шампань",
@@ -11948,6 +13547,9 @@ window.PRODUCTS = [
     },
     "styles": [
       "modern"
-    ]
+    ],
+    "priceValue": 976,
+    "priceUnit": "шт",
+    "priceNote": "Ориентировочная цена из каталога. Итоговая стоимость зависит от выбранного исполнения и объёма заказа"
   }
 ];
