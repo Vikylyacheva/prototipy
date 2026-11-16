@@ -111,7 +111,7 @@ window.PRODUCTS = [
     "id": "orac-w112",
     "category": "Панели",
     "name": "Orac W112 RIDGE",
-    "brand": "Orac",
+    "brand": "Orac Decor",
     "price": "Стоимость уточнить",
     "short": "Рельефная панель для оформления стен",
     "detail": "Рельефная панель для создания декоративных композиций. Возможность примерки образца на объекте уточните у консультанта.",
@@ -457,7 +457,7 @@ window.PRODUCTS = [
   {
     "id": "ref-pu-ridge",
     "name": "3D-панель RIDGE",
-    "brand": "Orac decor",
+    "brand": "Orac Decor",
     "category": "Панели",
     "detail": "Рельеф «следы волн на песке» — эффектно с подсветкой сверху",
     "images": [
