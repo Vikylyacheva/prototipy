@@ -62,3 +62,5 @@ body.order-open{overflow:hidden}.order-dialog{box-sizing:border-box;width:min(60
 .product-dimensions{font-size:12px;color:#786c67;margin:8px 0 12px;line-height:1.5}
 
 .catalog-room-note{font-size:12px;line-height:1.6;color:#786c67;max-width:80ch}.catalog-toolbar select{max-width:270px}@media(max-width:767px){.catalog-toolbar label{display:grid;gap:8px}.catalog-toolbar select{max-width:100%}}
+
+.hero-copy .hero-materials{font-style:italic;font-size:15px;line-height:1.65;margin:20px 0 0;max-width:56ch}.hero-copy .hero-free{font-style:normal;font-size:18px;line-height:1.5;margin:20px 0 28px;max-width:45ch}.hero-free strong{font-weight:700}@media(max-width:767px){.hero-copy .hero-materials{font-size:14px;margin-top:18px}.hero-copy .hero-free{font-size:16px;margin:20px 0 24px}}
