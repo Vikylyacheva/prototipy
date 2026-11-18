@@ -90,3 +90,13 @@ if(selectedActivity){$('#selection-note').textContent='Вы выбрали: '+se
 refresh();updatePackages();
 const track=$('#review-track');
 if(track){const controls=[...document.querySelectorAll('[data-carousel="review-track"]')];const sync=()=>controls.forEach(b=>{b.disabled=+b.dataset.direction<0?track.scrollLeft<=2:track.scrollLeft+track.clientWidth>=track.scrollWidth-2;});controls.forEach(b=>b.addEventListener('click',()=>track.scrollBy({left:+b.dataset.direction*(track.querySelector('article').getBoundingClientRect().width+20),behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'})));track.addEventListener('scroll',sync,{passive:true});window.addEventListener('resize',sync);sync();}
+
+function updatePackagePhoto() {
+  const rooms = [['eco','Эко'], ['art','Арт'], ['multi','Мульти']];
+  const [file, label] = rooms[Number(document.querySelector('#package-room').value)];
+  const cover = document.querySelector('#package-cover');
+  cover.src = 'assets/vk-' + file + '.webp';
+  cover.alt = label + '-пространство';
+}
+document.querySelector('#package-room').addEventListener('change', updatePackagePhoto);
+updatePackagePhoto();
