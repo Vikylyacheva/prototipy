@@ -47,3 +47,12 @@ body{background:#faf8f6;color:#171214}header,.site-footer{background:#171214;col
 .hero.hero-immersive .hero-booking .button{width:100%;min-width:0;min-height:66px;padding:18px 28px;background:rgba(160,32,45,.55);border:1px solid rgba(255,238,224,.8);border-radius:4px;color:#fff7f0;font-size:18px;box-shadow:none}
 .hero.hero-immersive .hero-booking .button:hover,.hero.hero-immersive .hero-booking .button:focus-visible{background:rgba(158,28,45,.9);border-color:white}
 @media(max-width:760px){.hero.hero-immersive .hero-booking .button{min-height:56px;padding:14px 22px;font-size:17px}}
+
+/* Reference hero: a full-room view on the right and a three-line title. */
+.hero.hero-immersive{background:#310510;padding-top:clamp(52px,6vw,94px)}
+.hero.hero-immersive .hero-backdrop{inset:0 0 0 auto;width:76%;height:100%;object-fit:cover;object-position:50% 42%}
+.hero.hero-immersive:before{background:linear-gradient(90deg,#370411 0%,#410512 22%,rgba(65,5,18,.92) 29%,rgba(52,4,14,.5) 42%,transparent 61%),linear-gradient(0deg,#280610f5,transparent 28%)}
+.hero.hero-immersive h1{font-size:clamp(52px,5.7vw,84px);line-height:.99;font-weight:500;letter-spacing:-.045em;text-shadow:none}
+.hero.hero-immersive h1 em{display:block;color:#fff9f5;font-size:1.14em;line-height:1.02;font-weight:500;letter-spacing:-.035em}
+.hero.hero-immersive .hero-benefits{border-top:0}
+@media(max-width:760px){.hero.hero-immersive .hero-backdrop{width:100%;object-position:60% 46%}.hero.hero-immersive:before{background:linear-gradient(90deg,#350410eb,#350410ac 52%,#23031044),linear-gradient(0deg,#250510ef,transparent 44%)}.hero.hero-immersive h1{font-size:clamp(35px,8.8vw,56px)}}
