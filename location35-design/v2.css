@@ -56,3 +56,15 @@ body{background:#faf8f6;color:#171214}header,.site-footer{background:#171214;col
 .hero.hero-immersive h1 em{display:block;color:#fff9f5;font-size:1.14em;line-height:1.02;font-weight:500;letter-spacing:-.035em}
 .hero.hero-immersive .hero-benefits{border-top:0}
 @media(max-width:760px){.hero.hero-immersive .hero-backdrop{width:100%;object-position:60% 46%}.hero.hero-immersive:before{background:linear-gradient(90deg,#350410eb,#350410ac 52%,#23031044),linear-gradient(0deg,#250510ef,transparent 44%)}.hero.hero-immersive h1{font-size:clamp(35px,8.8vw,56px)}}
+
+#contacts.section.contacts{grid-template-columns:minmax(0,2fr) minmax(0,3fr)}
+#contacts .contact-details{grid-column:1;grid-row:2}
+#contacts .map-panel{grid-column:2;grid-row:2}
+#contacts .contact-details .text-button{display:inline-flex;margin-top:20px}
+.messenger-buttons{display:flex;gap:12px;flex-wrap:wrap}
+.messenger-buttons .button{flex:1 1 auto;width:auto}
+.messenger-buttons .telegram-pending{background:transparent;color:inherit;border:1px solid currentColor;opacity:.65;cursor:default}
+@media(max-width:760px){
+#contacts.section.contacts{grid-template-columns:minmax(0,1fr)}
+#contacts .map-panel{grid-column:1;grid-row:3}
+}
