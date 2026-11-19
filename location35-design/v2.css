@@ -43,3 +43,7 @@ body{background:#faf8f6;color:#171214}header,.site-footer{background:#171214;col
 @media(max-width:760px){.hero.hero-immersive h1{font-size:clamp(22px,6.9vw,48px)}.hero.hero-immersive:before{background:linear-gradient(90deg,#280610f2,#300814c9 58%,#30081460),linear-gradient(0deg,#250910e0,transparent 60%)}}
 
 .vk-mark{display:inline-block;width:1.3em;height:1.3em;min-width:16px;min-height:16px;vertical-align:-.25em;margin-right:.42em;flex-shrink:0}.guest-photos.real-guests{display:grid;grid-auto-flow:column;grid-template-columns:none;grid-auto-columns:46%;overflow-x:auto;scroll-snap-type:x mandatory;gap:16px}.guest-photos.real-guests figure{scroll-snap-align:start}@media(max-width:760px){.guest-photos.real-guests{grid-auto-columns:86%}}
+.hero-booking{width:max-content;max-width:100%}
+.hero.hero-immersive .hero-booking .button{width:100%;min-width:0;min-height:66px;padding:18px 28px;background:rgba(160,32,45,.55);border:1px solid rgba(255,238,224,.8);border-radius:4px;color:#fff7f0;font-size:18px;box-shadow:none}
+.hero.hero-immersive .hero-booking .button:hover,.hero.hero-immersive .hero-booking .button:focus-visible{background:rgba(158,28,45,.9);border-color:white}
+@media(max-width:760px){.hero.hero-immersive .hero-booking .button{min-height:56px;padding:14px 22px;font-size:17px}}
