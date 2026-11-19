@@ -68,3 +68,33 @@ body{background:#faf8f6;color:#171214}header,.site-footer{background:#171214;col
 #contacts.section.contacts{grid-template-columns:minmax(0,1fr)}
 #contacts .map-panel{grid-column:1;grid-row:3}
 }
+
+#request.section{align-items:start;column-gap:clamp(28px,5vw,84px);background:radial-gradient(ellipse at top left,#780f29 0%,#420b1b 39%,#171214 84%)}
+.booking-intro h2{font-size:clamp(38px,4.5vw,70px);line-height:1.03;letter-spacing:-.04em}
+#request .booking-intro .lead{max-width:36ch;color:#fff1f3;margin:20px 0 26px}
+.booking-direct{border-top:1px solid #ffffff50;padding-top:22px}
+.booking-phone{display:inline-block;font-size:clamp(23px,2.3vw,36px);font-weight:600;color:white;text-decoration:none}
+.contact-channels{display:flex;flex-wrap:wrap;gap:10px;margin-top:14px}
+.contact-channels :is(a,button){display:inline-flex;align-items:center;gap:8px;border:1px solid #ffffff80;border-radius:8px;padding:11px 15px;color:white;background:transparent;text-decoration:none;font:inherit}
+.contact-channels a:hover,.contact-channels a:focus-visible{background:white;color:#480818}
+.contact-channels button:disabled{color:#e3cbd0;border-color:#ffffff38}
+.booking-photo{display:block;width:100%;height:clamp(190px,23vw,350px);object-fit:cover;border-radius:12px;margin-top:32px}
+#request-form h3{font:600 clamp(22px,2vw,30px)/1.15 Manrope,sans-serif;margin:0 0 24px}
+#contacts.section.contacts{align-items:stretch;gap:clamp(20px,3vw,44px)}
+#contacts .contact-details{padding:clamp(22px,3vw,42px);border-radius:12px;background:#f1e9e9;color:#171214}
+.contact-details dl,.contact-details dd{margin:0}
+.contact-details dt{margin:20px 0 6px;padding-top:15px;border-top:1px solid #d8ced0;font-size:14px;font-weight:600;color:#68565c}
+.contact-details dt:first-child{margin-top:0;border:0;padding:0}
+.contact-details dd{line-height:1.5}
+.contact-details dd+dd{margin-top:6px}
+.location-address{font-size:clamp(21px,2.2vw,32px);line-height:1.2;font-weight:600;letter-spacing:-.025em}
+#contacts .text-button{background:#780f29;color:#fff;border-radius:8px;padding:12px 18px;text-decoration:none}
+#contacts .map-panel iframe{height:100%;min-height:370px}
+#guest-gallery{background:#211319;color:#fff}
+#guest-gallery h2,#guest-gallery .guest-actions p,#guest-gallery .swipe-hint{color:#fff}
+#guest-gallery .guest-photo{border-radius:12px;overflow:hidden}
+@media(max-width:760px){
+#request.section{grid-template-columns:minmax(0,1fr)}
+.booking-photo{display:none}
+#contacts .map-panel iframe{min-height:300px}
+}
