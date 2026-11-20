@@ -1,4 +1,27 @@
 'use strict';
+const heroPhoto = document.querySelector('.hero-backdrop');
+if (heroPhoto) {
+  const start = () => heroPhoto.classList.add('is-ready');
+  if (heroPhoto.complete && heroPhoto.naturalWidth) start();
+  else heroPhoto.addEventListener('load', start, { once: true });
+}
+
+for (const button of document.querySelectorAll('.why-card-toggle')) {
+  const card = button.closest('article');
+  const front = card.querySelector('.why-card-front');
+  const back = document.getElementById(button.getAttribute('aria-controls'));
+  const title = front.querySelector('h3').textContent;
+  button.addEventListener('click', () => {
+    const turned = button.getAttribute('aria-expanded') === 'false';
+    button.setAttribute('aria-expanded', String(turned));
+    front.setAttribute('aria-hidden', String(turned));
+    back.setAttribute('aria-hidden', String(!turned));
+    button.textContent = turned ? 'Назад' : 'Подробнее';
+    button.setAttribute('aria-label', (turned ? 'Назад: ' : 'Подробнее: ') + title);
+  });
+  button.hidden = false;
+}
+
 const $ = s => document.querySelector(s);
 const form = $('#request-form');
 const date = $('#date');
@@ -56,7 +79,8 @@ service.addEventListener('change',()=>{selectedPackage='';selectedActivity='';$(
 room.addEventListener('change',()=>{if(service.value.startsWith('game-')&&room.value!=='Игровое'){service.value='rent';selectedActivity='';$('#selection-note').textContent='';}if(room.value==='Игровое'&&!['newyear','quiz','game-host','game-open'].includes(service.value))service.value='game-self';refresh();});
 function buildDraft(){
   const n=+$('#guests').value,r=window.rooms.find(r=>r.name===room.value),q=quote();
-  const caution=r&&n>r.max?' По описанию комната меньше нашей компании — предложите подходящий вариант.':'';
+  const capacity=r?.max ?? (room.value==='Игровое'?14:null);
+  const caution=capacity&&n>capacity?' По описанию комната меньше нашей компании — предложите подходящий вариант.':'';
   const activity=selectedActivity?' · '+selectedActivity:'';
   const label=service.options[service.selectedIndex].textContent;
   return 'Здравствуйте! Хочу забронировать праздник.\nПовод: '+$('#event').value+'.\nДата: '+date.value.split('-').reverse().join('.')+'.\nГостей: '+n+'.\nПространство: '+room.value+'.\nФормат: '+label+activity+(selectedPackage?' «'+selectedPackage+'»':'')+'.'+(['rent','game-self'].includes(service.value)?'\nДлительность: '+$('#hours').value+' ч.':'')+(q.amount?'\nПредварительно по тарифу: '+money(q.amount)+', без дополнительных услуг.':'\nСтоимость прошу уточнить.')+caution+'\nПодскажите, свободно ли это время и как подтвердить бронь?';
@@ -88,15 +112,40 @@ if([...service.options].some(o=>o.value===requestedService))service.value=reques
 if(['Мафия','Бункер','Квиз'].includes(params.get('activity')))selectedActivity=params.get('activity');
 if(selectedActivity){$('#selection-note').textContent='Вы выбрали: '+selectedActivity;$('#event').value='Игровой вечер';}
 refresh();updatePackages();
-const track=$('#review-track');
-if(track){const controls=[...document.querySelectorAll('[data-carousel="review-track"]')];const sync=()=>controls.forEach(b=>{b.disabled=+b.dataset.direction<0?track.scrollLeft<=2:track.scrollLeft+track.clientWidth>=track.scrollWidth-2;});controls.forEach(b=>b.addEventListener('click',()=>track.scrollBy({left:+b.dataset.direction*(track.querySelector('article').getBoundingClientRect().width+20),behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'})));track.addEventListener('scroll',sync,{passive:true});window.addEventListener('resize',sync);sync();}
+for (const track of document.querySelectorAll('#guest-track, #review-track')) {
+  const controls = document.querySelectorAll(`[data-carousel="${track.id}"]`);
+  const items = [...track.children];
+  const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
+  const sync = () => {
+    for (const button of controls) {
+      button.disabled = Number(button.dataset.direction) < 0
+        ? track.scrollLeft <= 2
+        : track.scrollLeft + track.clientWidth >= track.scrollWidth - 2;
+    }
+  };
+
+  for (const button of controls) {
+    button.addEventListener('click', () => {
+      const current = track.scrollLeft;
+      const starts = items.map(item => item.offsetLeft - items[0].offsetLeft);
+      const left = Number(button.dataset.direction) > 0
+        ? (starts.find(start => start > current + 2) ?? track.scrollWidth)
+        : (starts.findLast(start => start < current - 2) ?? 0);
+      track.scrollTo({ left, behavior: reducedMotion.matches ? 'instant' : 'smooth' });
+    });
+  }
+
+  track.addEventListener('scroll', sync, { passive: true });
+  window.addEventListener('resize', sync);
+  sync();
+}
 
 function updatePackagePhoto() {
-  const rooms = [['eco','Эко'], ['art','Арт'], ['multi','Мульти']];
-  const [file, label] = rooms[Number(document.querySelector('#package-room').value)];
-  const cover = document.querySelector('#package-cover');
-  cover.src = 'assets/vk-' + file + '.webp';
-  cover.alt = label + '-пространство';
+  const { id } = window.rooms[Number($('#package-room').value)];
+  const photo = $('#room-list .room-image.' + id + ' img');
+  const cover = $('#package-cover');
+  cover.src = photo.src;
+  cover.alt = photo.alt;
 }
-document.querySelector('#package-room').addEventListener('change', updatePackagePhoto);
+$('#package-room').addEventListener('change', updatePackagePhoto);
 updatePackagePhoto();
