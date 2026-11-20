@@ -228,43 +228,92 @@ header nav a { font-size: 14px; }
 .room-list .room-info ul { font-size: 14px; }
 .standard-package .package-price, .room-rates strong, .review-score > strong { font-variant-numeric: tabular-nums; }
 .standard-package:nth-child(2) { background: #f8edef; border-color: #ba8a98; }
-#extras .bunker-feature { background: #f5edef; }
-
-.bunker-photo-stage,
-.mafia-feature-photo.bunker-photo-stage {
+#extras {
+  padding-block: clamp(32px, 4.8vw, 68px);
+}
+#extras .mafia-feature {
+  margin-bottom: 20px;
+}
+#extras .bunker-feature {
+  background: #f5edef;
+}
+#extras .mafia-feature-copy {
+  padding: clamp(18px, 2.7vw, 32px);
+}
+#extras .mafia-feature h3,
+#extras .quiz-service h3 {
+  margin-bottom: 14px;
+  font-size: clamp(28px, 2.6vw, 36px);
+  line-height: 1.15;
+}
+#extras .mafia-feature-prices {
+  margin: 16px 0 12px;
+}
+#extras .mafia-feature-prices p {
+  margin: 0;
+  padding: 10px 0;
+}
+#extras .mafia-feature-prices span {
+  margin-top: 4px;
+}
+#extras :is(.mafia-feature, .quiz-service) .button {
+  min-height: 48px;
+  padding: 10px 16px;
+}
+#extras #mafia .mafia-feature-photo {
+  position: relative;
+  min-height: 350px;
+}
+#extras #mafia .mafia-feature-photo img {
+  position: absolute;
+  inset: 0;
+}
+#extras .bunker-photo-stage {
   display: grid;
   place-items: center;
   height: auto;
   min-height: 0;
-  padding: clamp(22px, 3vw, 44px);
+  padding: clamp(14px, 2vw, 26px);
   background: radial-gradient(ellipse at 54% 34%, #62243d, #351d2d 62%, #251a24 100%);
 }
 .bunker-photo-stage img {
   display: block;
-  width: min(100%, 304px);
+  width: min(100%, clamp(180px, 58vw, 236px));
   height: auto;
   border-radius: 8px;
   box-shadow: 0 12px 25px #170e1866;
 }
-
+#extras .quiz-service {
+  gap: 24px;
+  padding: clamp(12px, 1.25vw, 16px);
+}
+#extras .quiz-service-photo {
+  aspect-ratio: 8 / 5;
+  max-height: 350px;
+}
+#extras .extra-note {
+  margin-top: 22px;
+}
+#extras .extra-actions {
+  margin-top: 16px;
+}
 
 @media (max-width: 900px) {
   #extras :is(.mafia-feature, .quiz-service) {
     grid-template-columns: minmax(0, 1fr);
   }
-
   #extras #mafia .mafia-feature-photo {
+    width: 100%;
     height: auto;
     min-height: 0;
-    aspect-ratio: 4 / 3;
+    max-height: 400px;
+    aspect-ratio: 8 / 5;
   }
-
-  #extras #mafia .mafia-feature-photo img {
-    object-position: center;
-  }
-
   #extras .quiz-service {
     gap: 0;
+  }
+  #extras .quiz-service-photo {
+    max-height: 400px;
   }
 }
 
