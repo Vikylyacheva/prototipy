@@ -260,28 +260,14 @@ header nav a { font-size: 14px; }
   min-height: 48px;
   padding: 10px 16px;
 }
-#extras #mafia .mafia-feature-photo {
+#extras .mafia-feature-photo {
   position: relative;
   min-height: 350px;
 }
-#extras #mafia .mafia-feature-photo img {
+#extras .mafia-feature-photo img {
   position: absolute;
   inset: 0;
-}
-#extras .bunker-photo-stage {
-  display: grid;
-  place-items: center;
-  height: auto;
-  min-height: 0;
-  padding: clamp(14px, 2vw, 26px);
-  background: radial-gradient(ellipse at 54% 34%, #62243d, #351d2d 62%, #251a24 100%);
-}
-.bunker-photo-stage img {
-  display: block;
-  width: min(100%, clamp(180px, 58vw, 236px));
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 12px 25px #170e1866;
+  object-position: center;
 }
 #extras .quiz-service {
   gap: 24px;
@@ -302,7 +288,7 @@ header nav a { font-size: 14px; }
   #extras :is(.mafia-feature, .quiz-service) {
     grid-template-columns: minmax(0, 1fr);
   }
-  #extras #mafia .mafia-feature-photo {
+  #extras .mafia-feature-photo {
     width: 100%;
     height: auto;
     min-height: 0;
