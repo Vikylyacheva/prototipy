@@ -75,7 +75,14 @@ function updatePackages(){const i=+$('#package-room').value,d=+$('#package-day')
 $('#package-room').addEventListener('change',updatePackages);$('#package-day').addEventListener('change',updatePackages);
 form.addEventListener('input',()=>{date.setCustomValidity('');resetDraft();refresh();});
 form.addEventListener('change',()=>{resetDraft();refresh();});
-service.addEventListener('change',()=>{selectedPackage='';selectedActivity='';$('#selection-note').textContent='';if(service.value.startsWith('game-'))room.value='Игровое';refresh();});
+service.addEventListener('change', () => {
+  selectedPackage = '';
+  const isHostedGame = ['game-host', 'game-open'].includes(service.value);
+  if (!isHostedGame || !['Мафия', 'Бункер'].includes(selectedActivity)) selectedActivity = '';
+  $('#selection-note').textContent = selectedActivity ? 'Вы выбрали: ' + selectedActivity : '';
+  if (service.value.startsWith('game-')) room.value = 'Игровое';
+  refresh();
+});
 room.addEventListener('change',()=>{if(service.value.startsWith('game-')&&room.value!=='Игровое'){service.value='rent';selectedActivity='';$('#selection-note').textContent='';}if(room.value==='Игровое'&&!['newyear','quiz','game-host','game-open'].includes(service.value))service.value='game-self';refresh();});
 function buildDraft(){
   const n=+$('#guests').value,r=window.rooms.find(r=>r.name===room.value),q=quote();

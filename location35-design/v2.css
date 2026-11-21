@@ -284,7 +284,8 @@ header nav a { font-size: 14px; }
 .bunker-product {
   position: relative;
   min-height: 350px;
-  background: #fff;
+  overflow: hidden;
+  background: #351426;
 }
 .bunker-product > img,
 #extras .bunker-product > img {
@@ -293,12 +294,19 @@ header nav a { font-size: 14px; }
   display: block;
   width: 100%;
   height: 100%;
-  padding: clamp(10px, 2.6vw, 44px);
-  object-fit: contain;
+  object-fit: cover;
+  object-position: right bottom;
+  transform: scale(1.32);
+  transform-origin: right bottom;
 }
-
 @media (max-width: 900px) {
-  #extras .bunker-product { max-height: 300px; }
+  #extras .bunker-product { max-height: 340px; }
+}
+@media (601px <= width <= 900px) {
+  #extras .bunker-product > img {
+    object-position: right 90%;
+    transform: none;
+  }
 }
 @media (max-width: 760px) {
   .bunker-product {
@@ -306,6 +314,12 @@ header nav a { font-size: 14px; }
     aspect-ratio: 8 / 5;
   }
 }
+
+.mafia-formats-compact .mafia-formats { gap: clamp(22px, 4vw, 54px); }
+.mafia-formats-compact .mafia-formats article { padding-top: 16px; }
+.mafia-formats-compact .mafia-formats h3 { margin-bottom: 8px; }
+.mafia-formats-compact .mafia-formats .mafia-price { margin: 0 0 8px; }
+.mafia-formats-compact > .button { margin-top: 24px; }
 
 .why-panel {
   --panel-inset: clamp(24px, 4vw, 56px);
