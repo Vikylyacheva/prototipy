@@ -772,3 +772,44 @@ header nav a { font-size: 14px; }
     to { opacity: 1; translate: 0 0; }
   }
 }
+
+#formats .standard-package .button { justify-content: space-between; }
+#formats .standard-package .package-price { margin-top: 14px; }
+#formats .standard-package .price-unit { margin: 2px 0 0; font-size: 13px; }
+#formats .package-schedule { margin-block: 18px 22px; }
+#formats .package-schedule > div {
+  display: grid;
+  grid-template-columns: 65px 1fr;
+  align-items: baseline;
+  gap: 10px;
+  padding-block: 10px;
+}
+#formats .package-schedule strong { white-space: nowrap; }
+#formats .package-schedule span { margin-top: 0; }
+#formats .catalog-note { font-size: 14px; }
+.request #room-note {
+  margin: -8px 0 16px;
+  color: #653345;
+  font-size: 13px;
+}
+.request-room-preview:not([hidden]) {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  align-items: center;
+  gap: 14px;
+  margin: 0 0 18px;
+}
+.request-room-preview img {
+  width: 104px;
+  height: 78px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+.request-room-preview a {
+  width: fit-content;
+  padding-block: 10px;
+  color: #780f29;
+  font-size: 14px;
+  font-weight: 700;
+  text-underline-offset: .18em;
+}

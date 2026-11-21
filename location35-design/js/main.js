@@ -27,6 +27,14 @@ const form = $('#request-form');
 const date = $('#date');
 const service = $('#service');
 const room = $('#room');
+const guests = $('#guests');
+const roomNote = $('#room-note');
+const roomPreview = $('.request-room-preview');
+const roomPreviewPhoto = roomPreview.querySelector('img');
+const roomPreviewLink = roomPreview.querySelector('a');
+const GAME_ROOM = 'Игровое';
+const ROOM_HELP = 'Помогите выбрать';
+const roomCatalog = [...window.rooms, { id: 'game', name: GAME_ROOM, max: 14 }];
 const result = $('#draft-result');
 const draft = $('#draft');
 const copyStatus = $('#copy-status');
@@ -37,60 +45,146 @@ const money = n => n.toLocaleString('ru-RU') + ' ₽';
 const today = new Date();
 const localToday = new Date(today.getTime() - today.getTimezoneOffset() * 60000).toISOString().slice(0,10);
 date.min = localToday;
-const go = () => $('#request').scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});
+const go = (target = $('#request')) => target.scrollIntoView({behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});
 function resetDraft(){ copyStatus.textContent=''; $('#draft-actions').hidden=true; }
 function updateDraft(){ const ready=Boolean(date.value)&&+$('#guests').value>=1&&form.checkValidity(); result.hidden=!ready; draft.value=ready?buildDraft():''; }
+function packageFor(format) {
+  return window.packages.find(pack => pack.name === format);
+}
+
+function rateDay(day) {
+  const weekday = new Date(day + 'T12:00:00').getDay();
+  return weekday === 0 || weekday >= 5 ? 1 : 0;
+}
+
+function holidayPricing(day) {
+  return day >= '2026-12-20';
+}
+
+function syncRoomOptions(preferredRoom) {
+  const pack = packageFor(service.value);
+  const gameOnly = service.value.startsWith('game-');
+  const possible = roomCatalog.filter(info =>
+    gameOnly ? info.id === 'game' : !pack || info.id !== 'game'
+  );
+  const available = possible
+    .map(info => ({ ...info, limit: info.id === 'game' && service.value === 'game-host' ? 10 : info.max }))
+    .filter(info => Number(guests.value) <= info.limit);
+
+  const labels = available.map(info => {
+    const limit = 'до ' + info.limit + (pack ? '' : ' гостей');
+    const label = info.name + ' · ' + limit;
+    if (!pack || holidayPricing(date.value)) return label;
+    const prices = pack.prices[window.rooms.findIndex(candidate => candidate.id === info.id)];
+    return label + ' · ' + (date.value ? money(prices[rateDay(date.value)]) : 'от ' + money(Math.min(...prices)));
+  });
+  const current = [...room.options].slice(1);
+  if (current.length !== available.length ||
+      current.some((option, index) => option.value !== available[index].name || option.textContent !== labels[index])) {
+    room.replaceChildren(new Option(ROOM_HELP), ...available.map((info, index) => new Option(labels[index], info.name)));
+  }
+
+  const selected = available.find(info => info.name === preferredRoom) || (gameOnly ? available[0] : undefined);
+  room.value = selected?.name ?? ROOM_HELP;
+
+  const note = !available.length
+    ? 'В этом формате нет комнаты на такое количество гостей. Можно попросить администратора предложить другой вариант.'
+    : available.length < possible.length ? 'В списке только комнаты, которые вмещают вашу компанию.' : '';
+  roomNote.textContent = note;
+  roomNote.hidden = !note;
+
+  roomPreview.hidden = !selected;
+  if (selected) {
+    const source = $('#room-list .room-image[href="room-' + selected.id + '.html"]');
+    const photo = source.querySelector('img');
+    roomPreviewPhoto.src = photo.src;
+    roomPreviewPhoto.alt = photo.alt;
+    roomPreviewLink.href = source.href;
+    roomPreviewLink.setAttribute('aria-label', 'Подробнее о пространстве «' + selected.name + '» (в новой вкладке)');
+  }
+}
+
 function quote(){
   const d=date.value, s=service.value, hours=+$('#hours').value;
   const hourly=['rent','game-self'].includes(s);
   $('#hours-field').hidden=!hourly; $('#hours').disabled=!hourly;
+  if(room.options.length===1) return {text:'Администратор подскажет подходящий формат и его стоимость.'};
   if(!d) return {text:'Выберите дату — покажем предварительную стоимость'};
-  if(s==='newyear'||d>='2026-12-20') return {text:'Стоимость на праздничные даты уточним при обращении'};
-  if(s==='game-host') return +$('#guests').value>10?{text:'Игра с ведущим рассчитана на компанию до 10 человек. Для большей компании уточним формат.'}:{amount:5000,text:'5 000 ₽ · 2 часа с ведущим · до 10 человек'};
+  if(s==='newyear'||holidayPricing(d)) return {text:'Стоимость на праздничные даты уточним при обращении'};
+  if(s==='game-host') return {amount:5000,text:'5 000 ₽ · 2 часа с ведущим · до 10 человек'};
   if(s==='game-open') return {amount:600*(+$('#guests').value||1),text:'600 ₽ с человека · 2 часа открытой игры. Дата требует подтверждения'};
   if(s==='quiz') return {amount:3000,text:'3 000 ₽ за квиз · 1 час. Аренду комнаты и индивидуальную тему уточним отдельно'};
   if(s==='game-self') return hours>=1&&hours<=24?{amount:1300*hours,text:money(1300*hours)+' · '+hours+' ч без ведущего'}:{text:'Укажите длительность от 1 до 24 часов'};
   const i=window.rooms.findIndex(r=>r.name===room.value);
-  if(i<0) return {text:'Выберите Эко, Арт или Мульти для расчёта'};
-  const day=new Date(d+'T12:00:00').getDay(), weekend=day===0||day>=5?1:0;
-  const pack=window.packages.find(p=>p.name===s);
+  if(i<0) return {text:'Выберите комнату для расчёта'};
+  const weekend=rateDay(d);
+  const pack=packageFor(s);
   const amount=pack?pack.prices[i][weekend]:(hours>=1&&hours<=24?window.rooms[i].rates[weekend]*hours:null);
   return amount?{amount,text:money(amount)+' · '+room.value+' · '+(pack?'пакет '+pack.name:hours+' ч аренды')}:{text:'Укажите длительность от 1 до 24 часов'};
 }
-function refresh(){const q=quote();$('#estimate').textContent=q.text+(q.amount?' — предварительно. Итоговую стоимость подтвердит администратор.':'');updateDraft();}
-function choose(values){
-  if(values.room)room.value=values.room;
-  if(values.service)service.value=values.service;
+function refresh(preferredRoom = room.value) {
+  syncRoomOptions(preferredRoom);
+  const q = quote();
+  $('#estimate').textContent = q.text + (q.amount ? ' — предварительно. Итоговую стоимость подтвердит администратор.' : '');
+  updateDraft();
+}
+
+function choose(values, target) {
+  const preferredRoom = values.room || room.value;
+  if(values.service) service.value=values.service;
   selectedPackage=values.package||'';selectedActivity=values.activity||'';
   if(values.event)$('#event').value=values.event;
   $('#selection-note').textContent=selectedActivity?'Вы выбрали: '+selectedActivity:selectedPackage?'Новогодний пакет «'+selectedPackage+'» · 20–30 декабря 2026':'';
-  resetDraft();refresh();go();
+  resetDraft();
+  refresh(preferredRoom);
+  go(target);
 }
+
 document.querySelectorAll('[data-room]').forEach(b=>b.addEventListener('click',()=>choose({room:b.dataset.room,service:'rent'})));
-document.querySelectorAll('[data-game]').forEach(b=>b.addEventListener('click',()=>choose({room:'Игровое',service:'game-'+b.dataset.game,event:'Игровой вечер'})));
+document.querySelectorAll('[data-game]').forEach(b=>b.addEventListener('click',()=>choose({room:GAME_ROOM,service:'game-'+b.dataset.game,event:'Игровой вечер'})));
 document.querySelectorAll('[data-package]').forEach(b=>b.addEventListener('click',()=>choose({service:'newyear',package:b.dataset.package,event:'Корпоратив'})));
-document.querySelectorAll('[data-standard-package]').forEach(b=>b.addEventListener('click',()=>choose({service:b.dataset.standardPackage,room:window.rooms[+$('#package-room').value].name})));
+document.querySelectorAll('[data-standard-package]').forEach(link => link.addEventListener('click', event => {
+  event.preventDefault();
+  choose({ service: link.dataset.standardPackage }, form);
+  form.focus({ preventScroll: true });
+}));
 document.querySelectorAll('[data-quiz]').forEach(b=>b.addEventListener('click',e=>{e.preventDefault();choose({service:'quiz',activity:'Квиз'});}));
-function updatePackages(){const i=+$('#package-room').value,d=+$('#package-day').value;window.packages.forEach(p=>{const el=document.querySelector('[data-price="'+p.name+'"]');el.textContent=money(p.prices[i][d]);el.nextElementSibling.textContent='За всю компанию · '+window.rooms[i].name+' · '+(d?'Пт–Вс':'Пн–Чт');});}
-$('#package-room').addEventListener('change',updatePackages);$('#package-day').addEventListener('change',updatePackages);
-form.addEventListener('input',()=>{date.setCustomValidity('');resetDraft();refresh();});
-form.addEventListener('change',()=>{resetDraft();refresh();});
+
+for (const pack of window.packages) {
+  const price = document.querySelector('[data-price="' + pack.name + '"]');
+  price.textContent = 'от ' + money(Math.min(...pack.prices.flat()));
+}
+
+function refreshForm(preferredRoom = room.value) {
+  date.setCustomValidity('');
+  resetDraft();
+  refresh(preferredRoom);
+}
+
+function formChanged(event) {
+  if (event.target !== service && event.target !== room) refreshForm();
+}
+form.addEventListener('input', formChanged);
+form.addEventListener('change', formChanged);
 service.addEventListener('change', () => {
   selectedPackage = '';
   const isHostedGame = ['game-host', 'game-open'].includes(service.value);
   if (!isHostedGame || !['Мафия', 'Бункер'].includes(selectedActivity)) selectedActivity = '';
   $('#selection-note').textContent = selectedActivity ? 'Вы выбрали: ' + selectedActivity : '';
-  if (service.value.startsWith('game-')) room.value = 'Игровое';
-  refresh();
+  refreshForm(service.value.startsWith('game-') ? GAME_ROOM : room.value);
 });
-room.addEventListener('change',()=>{if(service.value.startsWith('game-')&&room.value!=='Игровое'){service.value='rent';selectedActivity='';$('#selection-note').textContent='';}if(room.value==='Игровое'&&!['newyear','quiz','game-host','game-open'].includes(service.value))service.value='game-self';refresh();});
+room.addEventListener('change', () => {
+  if (room.value === GAME_ROOM && service.value === 'rent') service.value = 'game-self';
+  refreshForm();
+});
 function buildDraft(){
-  const n=+$('#guests').value,r=window.rooms.find(r=>r.name===room.value),q=quote();
-  const capacity=r?.max ?? (room.value==='Игровое'?14:null);
-  const caution=capacity&&n>capacity?' По описанию комната меньше нашей компании — предложите подходящий вариант.':'';
+  const n=Number(guests.value),q=quote();
+  const question = room.options.length === 1
+    ? 'Подскажите, есть ли подходящий вариант на такое количество гостей?'
+    : 'Подскажите, свободно ли это время и как подтвердить бронь?';
   const activity=selectedActivity?' · '+selectedActivity:'';
   const label=service.options[service.selectedIndex].textContent;
-  return 'Здравствуйте! Хочу забронировать праздник.\nПовод: '+$('#event').value+'.\nДата: '+date.value.split('-').reverse().join('.')+'.\nГостей: '+n+'.\nПространство: '+room.value+'.\nФормат: '+label+activity+(selectedPackage?' «'+selectedPackage+'»':'')+'.'+(['rent','game-self'].includes(service.value)?'\nДлительность: '+$('#hours').value+' ч.':'')+(q.amount?'\nПредварительно по тарифу: '+money(q.amount)+', без дополнительных услуг.':'\nСтоимость прошу уточнить.')+caution+'\nПодскажите, свободно ли это время и как подтвердить бронь?';
+  return 'Здравствуйте! Хочу забронировать праздник.\nПовод: '+$('#event').value+'.\nДата: '+date.value.split('-').reverse().join('.')+'.\nГостей: '+n+'.\nПространство: '+room.value+'.\nФормат: '+label+activity+(selectedPackage?' «'+selectedPackage+'»':'')+'.'+(['rent','game-self'].includes(service.value)?'\nДлительность: '+$('#hours').value+' ч.':'')+(q.amount?'\nПредварительно по тарифу: '+money(q.amount)+', без дополнительных услуг.':'\nСтоимость прошу уточнить.')+'\n'+question;
 }
 async function copyText(text){
   try{if(navigator.clipboard&&window.isSecureContext){await navigator.clipboard.writeText(text);return true;}}catch{}
@@ -114,11 +208,11 @@ form.addEventListener('submit',async e=>{
 });
 $('#copy').addEventListener('click',async()=>{const copied=await copyText(draft.value);copyStatus.textContent=copied?'Текст скопирован. Вставьте его в сообщения «Локации» и отправьте.':'Текст выделен. Нажмите Ctrl+C или выберите «Копировать», затем откройте ВК.';});
 const params=new URLSearchParams(location.search);const requestedRoom=params.get('room');const requestedService=params.get('service');
-if([...room.options].some(o=>o.value===requestedRoom))room.value=requestedRoom;
+
 if([...service.options].some(o=>o.value===requestedService))service.value=requestedService;
 if(['Мафия','Бункер','Квиз'].includes(params.get('activity')))selectedActivity=params.get('activity');
 if(selectedActivity){$('#selection-note').textContent='Вы выбрали: '+selectedActivity;$('#event').value='Игровой вечер';}
-refresh();updatePackages();
+refresh(requestedRoom || room.value);
 for (const track of document.querySelectorAll('#guest-track, #review-track')) {
   const controls = document.querySelectorAll(`[data-carousel="${track.id}"]`);
   const items = [...track.children];
@@ -147,12 +241,3 @@ for (const track of document.querySelectorAll('#guest-track, #review-track')) {
   sync();
 }
 
-function updatePackagePhoto() {
-  const { id } = window.rooms[Number($('#package-room').value)];
-  const photo = $('#room-list .room-image.' + id + ' img');
-  const cover = $('#package-cover');
-  cover.src = photo.src;
-  cover.alt = photo.alt;
-}
-$('#package-room').addEventListener('change', updatePackagePhoto);
-updatePackagePhoto();

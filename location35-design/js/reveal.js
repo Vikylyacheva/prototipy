@@ -7,7 +7,7 @@
     main > section:not(.hero-immersive, #rooms, #formats, #extras),
     #rooms > .section-head,
     #room-list > .room,
-    #formats > :is(.section-head, .package-controls, .package-cover, .newyear),
+    #formats > :is(.section-head, .newyear),
     #formats .standard-packages > .standard-package,
     #extras > :is(.section-head, article, .extra-actions),
     .site-footer
