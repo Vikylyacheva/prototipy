@@ -95,25 +95,11 @@ body{background:#faf8f6;color:#171214}header,.site-footer{background:#171214;col
   --dark: #272429;
   --muted: #665b5e;
   --wine-hover: #600c21;
-  --paper-grain: url("assets/paper-grain.webp");
   --frame: max(clamp(20px, 5vw, 72px), calc((100% - 1280px) / 2));
-  --paper-edge: polygon(
-    0 45%, 1.1% 54%, 2.2% 47%, 3.4% 59%, 4.7% 40%, 5.8% 33%, 7% 47%,
-    8.8% 53%, 10.1% 46%, 11.5% 59%, 12.9% 64%, 14.5% 54%, 15.2% 40%,
-    16.6% 29%, 17.3% 43%, 18.8% 52%, 20.5% 46%, 21.8% 58%, 23.6% 71%,
-    25.2% 65%, 27.4% 75%, 29.2% 54%, 30.9% 63%, 32.4% 40%, 34.2% 45%,
-    35.9% 30%, 37.9% 42%, 39.1% 59%, 40.4% 65%, 42.3% 55%, 44.1% 63%,
-    46.4% 54%, 48.6% 36%, 50.1% 48%, 51.9% 38%, 53.2% 24%, 54.3% 36%,
-    55.9% 32%, 57.1% 47%, 58.4% 54%, 60.5% 49%, 62.3% 63%, 63.7% 56%,
-    65.4% 70%, 67.1% 61%, 69% 75%, 70.8% 56%, 72.4% 63%, 74.5% 51%,
-    76% 61%, 77.6% 57%, 79.3% 35%, 81.2% 37%, 82.2% 51%, 84.2% 43%,
-    85.6% 58%, 87.1% 52%, 89.3% 63%, 90.8% 69%, 92.6% 63%, 94% 74%,
-    95.9% 62%, 97.8% 65%, 99% 48%, 100% 51%, 100% 100%, 0 100%
-  );
 }
 
 ::selection { background: #f0cdd7; color: var(--ink); }
-body { background: var(--paper) var(--paper-grain); }
+body { background: var(--paper); }
 header, .site-footer { padding-inline: var(--frame); background: var(--dark); }
 header { padding-block: 12px; }
 header .brand img { width: 50px; height: 50px; }
@@ -185,17 +171,7 @@ header nav a { font-size: 14px; }
   }
 }
 
-#choose-format, #rooms, #reviews { background: var(--paper) var(--paper-grain); }
-#choose-format, #reviews { position: relative; }
-#choose-format::before, #reviews::before {
-  content: "";
-  position: absolute;
-  inset: -22px 0 auto;
-  height: 23px;
-  background: var(--paper) var(--paper-grain);
-  clip-path: var(--paper-edge);
-  pointer-events: none;
-}
+#choose-format, #rooms, #reviews { background: var(--paper); }
 .format-choice { padding-block: clamp(47px, 5.6vw, 76px) clamp(33px, 4vw, 64px); }
 .format-paths { gap: clamp(16px, 2.3vw, 28px); }
 .format-paths article,
@@ -303,6 +279,33 @@ header nav a { font-size: 14px; }
   }
 }
 
+
+
+.bunker-product {
+  position: relative;
+  min-height: 350px;
+  background: #fff;
+}
+.bunker-product > img,
+#extras .bunker-product > img {
+  position: absolute;
+  inset: 0;
+  display: block;
+  width: 100%;
+  height: 100%;
+  padding: clamp(10px, 2.6vw, 44px);
+  object-fit: contain;
+}
+
+@media (max-width: 900px) {
+  #extras .bunker-product { max-height: 300px; }
+}
+@media (max-width: 760px) {
+  .bunker-product {
+    min-height: 0;
+    aspect-ratio: 8 / 5;
+  }
+}
 
 .why-panel {
   --panel-inset: clamp(24px, 4vw, 56px);
