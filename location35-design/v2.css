@@ -266,6 +266,16 @@ header nav a { font-size: 14px; }
   min-height: 48px;
   padding: 10px 16px;
 }
+#extras :is(#mafia, #quiz) .button {
+  color: #4b1024;
+  background-color: #f9e8ed;
+}
+#extras :is(#mafia, #quiz) .button:hover { background-color: #fff7f9; }
+#extras :is(#mafia, #quiz) .button:active { background-color: #f0cbd7; }
+#extras :is(#mafia, #quiz) .button:focus-visible {
+  outline-color: #ffd27a;
+  outline-offset: 3px;
+}
 #extras .mafia-feature-photo {
   position: relative;
   min-height: 350px;
@@ -566,6 +576,8 @@ header nav a { font-size: 14px; }
 .reviews .review-card blockquote { margin: 12px 0 16px; font-size: 17px; }
 .review-card .text-button { display: inline-flex; align-items: center; min-height: 44px; font-size: 14px; color: var(--accent); }
 .review-caption { font-size: 13px; }
+#reviews { padding-bottom: clamp(16px, 1.8vw, 26px); }
+#reviews + .faq { padding-top: clamp(18px, 1.8vw, 26px); }
 
 #contacts .map-panel iframe { height: 100%; min-height: 370px; }
 #contacts .contact-details .text-button { min-height: 44px; align-items: center; }
