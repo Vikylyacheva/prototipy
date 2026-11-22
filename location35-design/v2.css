@@ -646,6 +646,8 @@ header nav a { font-size: 14px; }
   background: #fffaf8;
 }
 .newyear-summary {
+  position: relative;
+  isolation: isolate;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -655,12 +657,42 @@ header nav a { font-size: 14px; }
   border-radius: 13px;
   color: #fffaf8;
   background:
-    radial-gradient(circle at 81% 25%, #ffcfab 0 1px, transparent 2px),
-    radial-gradient(circle at 76% 70%, #ffc6a7ba 0 2px, transparent 3px),
-    radial-gradient(circle at 93% 78%, #ffc6a7c9 0 1px, transparent 2px),
-    radial-gradient(circle at 88% 16%, #ffdcb6b8 0 2px, transparent 3px),
     radial-gradient(ellipse at 87% 10%, #a32d4a 0, transparent 57%),
     linear-gradient(110deg, #39101d, #74142d);
+}
+.newyear-lights {
+  position: absolute;
+  z-index: -1;
+  inset: 0 0 0 auto;
+  width: 34%;
+  pointer-events: none;
+}
+.newyear-lights > span {
+  position: absolute;
+  top: var(--top);
+  left: var(--left);
+  width: var(--size, 3px);
+  height: var(--size, 3px);
+  border-radius: 50%;
+  background: #ffdbb4;
+  box-shadow: 0 0 7px #ffceaa9e;
+  opacity: .58;
+}
+.newyear-lights > span:nth-child(1) { --top: 25%; --left: 38%; --delay: .48s; }
+.newyear-lights > span:nth-child(2) { --top: 69%; --left: 28%; --size: 4px; --delay: .12s; }
+.newyear-lights > span:nth-child(3) { --top: 18%; --left: 60%; --size: 4px; --delay: .25s; }
+.newyear-lights > span:nth-child(4) { --top: 78%; --left: 78%; --delay: .55s; }
+.newyear-lights > span:nth-child(5) { --top: 33%; --left: 86%; --delay: .05s; }
+.newyear-lights > span:nth-child(6) { --top: 86%; --left: 54%; --delay: .35s; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .newyear-lights.is-twinkling > span {
+    animation: newyear-twinkle 2s ease-in-out var(--delay) 2;
+  }
+  @keyframes newyear-twinkle {
+    0%, 100% { opacity: .58; transform: scale(1); }
+    52% { opacity: 1; transform: scale(1.45); }
+  }
 }
 .newyear-summary::-webkit-details-marker { display: none; }
 .newyear[open] > .newyear-summary { border-radius: 13px 13px 0 0; }
@@ -697,17 +729,23 @@ header nav a { font-size: 14px; }
   border: 1px solid #fffaf8a3;
   border-radius: 50%;
 }
+.gallery-controls .gallery-step {
+  display: grid;
+  place-items: center;
+  padding: 0;
+}
+.gallery-step::before,
 .newyear-arrow::before {
   content: '';
-  width: 9px;
-  height: 9px;
-  border-right: 1.5px solid currentColor;
-  border-bottom: 1.5px solid currentColor;
-  transform: translateY(-2px) rotate(45deg);
+  width: 14px;
+  height: 14px;
+  background: currentColor;
+  clip-path: polygon(29% 0, 79% 50%, 29% 100%, 20% 91%, 61% 50%, 20% 9%);
+  forced-color-adjust: none;
 }
-.newyear[open] .newyear-arrow::before {
-  transform: translateY(2px) rotate(225deg);
-}
+.gallery-step-prev::before { transform: rotate(180deg); }
+.newyear-arrow::before { transform: rotate(90deg); }
+.newyear[open] .newyear-arrow::before { transform: rotate(-90deg); }
 .newyear-summary:hover .newyear-arrow {
   color: #74142d;
   background: #fffaf8;
@@ -844,17 +882,14 @@ header nav a { font-size: 14px; }
 }
 
 .link-arrow {
-  position: relative;
   display: inline-block;
   flex: none;
   width: .78em;
   height: .78em;
   vertical-align: -.03em;
-}
-.link-arrow::before,
-.link-arrow::after {
-  position: absolute;
-  content: '';
+  background: currentColor;
+  clip-path: polygon(28% 8%, 93% 8%, 93% 73%, 81% 73%, 81% 29%, 15% 95%, 6% 86%, 72% 20%, 28% 20%);
+  forced-color-adjust: none;
 }
 .link-arrow::before {
   inset: .06em .06em auto auto;

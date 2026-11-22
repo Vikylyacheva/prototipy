@@ -12,15 +12,21 @@
     #extras > :is(.section-head, article, .extra-actions),
     .site-footer
   `);
+  const lights = document.querySelector('.newyear-lights');
   const observer = new IntersectionObserver(entries => {
     for (const { target, isIntersecting } of entries) {
       if (!isIntersecting) continue;
       observer.unobserve(target);
-      if (motion.matches && !target.matches(':target, :focus-within')) {
+      if (!motion.matches) continue;
+      if (target === lights) {
+        lights.classList.add('is-twinkling');
+      } else if (!target.matches(':target, :focus-within')) {
         target.classList.add('section-entering');
       }
     }
   }, { rootMargin: '0px 0px -40px' });
+
+  if (lights) observer.observe(lights);
 
   const viewportBottom = document.documentElement.clientHeight;
   for (const block of blocks) {
