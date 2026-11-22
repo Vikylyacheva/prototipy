@@ -225,6 +225,13 @@ header nav a { font-size: 14px; }
 .room-list .room-title > span, .room-info .comfort, .room-list .price-note { font-size: 13px !important; }
 .room-list .room-info > p:not(.price-note, .comfort) { font-size: 15px; }
 .room-list .room-info ul { font-size: 14px; }
+#rooms .room-info > .button { margin-top: 18px; }
+#rooms .room-game .room-info > p a {
+  color: #780f29;
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: .17em;
+}
 .standard-package .package-price, .room-rates strong, .review-score > strong { font-variant-numeric: tabular-nums; }
 .standard-package:nth-child(2) { background: #f8edef; border-color: #ba8a98; }
 #extras {
