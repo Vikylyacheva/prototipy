@@ -370,7 +370,7 @@ header nav a { font-size: 14px; }
   isolation: isolate;
   overflow: hidden;
   border-radius: 16px;
-  background: radial-gradient(ellipse at 23% 15%, #8a2443, #59182f 55%, #301522);
+  background: radial-gradient(ellipse at 12% 8%, #802846 0%, #68233c 39%, #4f1f34 71%, #351a29 100%);
 }
 .why-panel h2 {
   grid-area: heading;
@@ -390,9 +390,12 @@ header nav a { font-size: 14px; }
   position: absolute;
   inset: 0;
   pointer-events: none;
-  background:
-    linear-gradient(90deg, #621b34 0%, #621b3440 23%, transparent 48%),
-    linear-gradient(0deg, #3a18274d, transparent 40%);
+  background: linear-gradient(0deg, #32172538, transparent 50%);
+}
+@media (width > 900px) {
+  .why-media {
+    mask-image: linear-gradient(90deg, transparent 0%, #0002 12%, #0008 29%, #000e 46%, #000 57%);
+  }
 }
 .why-media img {
   display: block;
@@ -675,8 +678,7 @@ header nav a { font-size: 14px; }
 .newyear-lights {
   position: absolute;
   z-index: -1;
-  inset: 0 0 0 auto;
-  width: 34%;
+  inset: 0;
   pointer-events: none;
 }
 .newyear-lights > span {
@@ -690,12 +692,21 @@ header nav a { font-size: 14px; }
   box-shadow: 0 0 7px #ffceaa9e;
   opacity: .58;
 }
-.newyear-lights > span:nth-child(1) { --top: 25%; --left: 38%; --delay: .48s; }
-.newyear-lights > span:nth-child(2) { --top: 69%; --left: 28%; --size: 4px; --delay: .12s; }
-.newyear-lights > span:nth-child(3) { --top: 18%; --left: 60%; --size: 4px; --delay: .25s; }
-.newyear-lights > span:nth-child(4) { --top: 78%; --left: 78%; --delay: .55s; }
-.newyear-lights > span:nth-child(5) { --top: 33%; --left: 86%; --delay: .05s; }
-.newyear-lights > span:nth-child(6) { --top: 86%; --left: 54%; --delay: .35s; }
+.newyear-lights > span:nth-child(1) { --top: 15%; --left: 6%; --size: 3px; --delay: 0.12s; }
+.newyear-lights > span:nth-child(2) { --top: 20%; --left: 18%; --size: 2px; --delay: 0.48s; }
+.newyear-lights > span:nth-child(3) { --top: 13%; --left: 31%; --size: 4px; --delay: 0.25s; }
+.newyear-lights > span:nth-child(4) { --top: 18%; --left: 45%; --size: 2px; --delay: 0.65s; }
+.newyear-lights > span:nth-child(5) { --top: 13%; --left: 56%; --size: 3px; --delay: 0.32s; }
+.newyear-lights > span:nth-child(6) { --top: 21%; --left: 69%; --size: 3px; --delay: 0.55s; }
+.newyear-lights > span:nth-child(7) { --top: 15%; --left: 82%; --size: 4px; --delay: 0.15s; }
+.newyear-lights > span:nth-child(8) { --top: 27%; --left: 94%; --size: 3px; --delay: 0.42s; }
+.newyear-lights > span:nth-child(9) { --top: 66%; --left: 4%; --size: 2px; --delay: 0.36s; }
+.newyear-lights > span:nth-child(10) { --top: 88%; --left: 23%; --size: 4px; --delay: 0.05s; }
+.newyear-lights > span:nth-child(11) { --top: 77%; --left: 39%; --size: 2px; --delay: 0.51s; }
+.newyear-lights > span:nth-child(12) { --top: 88%; --left: 54%; --size: 3px; --delay: 0.20s; }
+.newyear-lights > span:nth-child(13) { --top: 76%; --left: 68%; --size: 4px; --delay: 0.68s; }
+.newyear-lights > span:nth-child(14) { --top: 87%; --left: 81%; --size: 2px; --delay: 0.29s; }
+.newyear-lights > span:nth-child(15) { --top: 77%; --left: 94%; --size: 3px; --delay: 0.45s; }
 
 @media (prefers-reduced-motion: no-preference) {
   .newyear-lights.is-twinkling > span {
