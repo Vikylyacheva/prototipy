@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#261e20">
+  <meta name="description" content="Локация в Вологде — отдельные комнаты для дня рождения, девичника, корпоратива и встреч с друзьями. Выберите комнату и программу для своей компании.">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Локация прототип_по промту</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <svg class="svg-library" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><defs>
+    <symbol id="photo-icon" viewBox="0 0 48 48"><rect x="7" y="12" width="34" height="27" rx="4"/><path d="m16 12 3-5h10l3 5"/><circle cx="24" cy="25" r="8"/></symbol>
+    <symbol id="close-icon" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+    <symbol id="check-icon" viewBox="0 0 24 24"><path d="m5 12 4 4L19 6"/></symbol>
+    <symbol id="chevron-icon" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+    <symbol id="menu-icon" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></symbol>
+    <symbol id="pin-icon" viewBox="0 0 24 24"><path d="M19 10c0 5-7 11-7 11S5 15 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2"/></symbol>
+  </defs></svg>
+  <a class="skip-link" href="#main">Перейти к&nbsp;содержанию</a>
+  <div class="prototype-note">Прототип для&nbsp;обсуждения <span>Фотографии заменены заглушками · отправка заявок не&nbsp;подключена</span></div>
+  <header class="header">
+    <div class="container header-row">
+      <a href="#" class="brand" aria-label="Локация — на главную">локация<span class="brand-dot" aria-hidden="true"></span></a>
+      <nav class="navigation" id="navigation" aria-label="Основная навигация">
+        <a href="#rooms">Комнаты</a><a href="#programs">Программы</a><a href="#included">Условия</a><a href="#open-games">Открытые игры</a><a href="#contacts">Контакты</a>
+      </nav>
+      <button class="button button-small header-book" data-book>Забронировать</button>
+      <button class="icon-button menu-button" id="menu-toggle" aria-label="Открыть меню" aria-controls="navigation" aria-expanded="false"><svg><use href="#menu-icon"/></svg></button>
+    </div>
+  </header>
+  <main id="main">
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="hero-placeholder" aria-label="Фото-заглушка: общий план Мультипространства"><svg><use href="#photo-icon"/></svg><span>Фото Мультипространства</span><small>Общий план комнаты · фото-заглушка</small></div>
+      <div class="container hero-content">
+        <h1 id="hero-title">Ваш&nbsp;праздник&nbsp;—<br> в&nbsp;самом центре<br> <span>Вологды</span></h1>
+        <p class="hero-description">День рождения, девичник или&nbsp;корпоратив<br> Караоке, танцы и&nbsp;игры в&nbsp;отдельной комнате</p>
+        <div class="hero-actions"><button class="button button-light" data-book>Забронировать</button><a class="hero-link" href="#rooms">Посмотреть комнаты</a></div>
+        <p class="hero-hint">Оставьте заявку&nbsp;— администратор уточнит дату и&nbsp;условия</p>
+      </div>
+      <div class="container hero-bottom"><span>Только ваша компания</span><span>Своя еда без&nbsp;пробкового сбора</span><span>Можно с&nbsp;ведущим</span></div>
+    </section>
+
+    <section class="section format-section" id="formats" aria-labelledby="format-title">
+      <div class="container">
+        <div class="section-heading"><h2 id="format-title">Как&nbsp;хотите<br> провести вечер</h2><p>Можно просто собраться в&nbsp;своей комнате.<br> А&nbsp;можно доверить программу ведущему</p></div>
+        <div class="format-grid">
+          <a class="format-option" href="#rooms" data-format="rent"><div><h3>Своей компанией</h3><p>Выберите комнату для&nbsp;караоке, игр, танцев и&nbsp;разговоров</p></div><span class="text-link">Выбрать комнату</span></a>
+          <a class="format-option format-host" href="#programs" data-format="host"><div><h3>С&nbsp;программой и&nbsp;ведущим</h3><p>Выберите пакет с&nbsp;программой и&nbsp;временем для&nbsp;самостоятельного отдыха</p></div><span class="text-link">Посмотреть программы</span></a>
+        </div>
+        <div class="open-shortcut"><span>Хотите присоединиться к&nbsp;игре?</span> <a href="#open-games">Посмотреть открытые игры</a></div>
+      </div>
+    </section>
+
+    <section class="section rooms-section" id="rooms" aria-labelledby="rooms-title">
+      <div class="container">
+        <div class="section-heading"><h2 id="rooms-title">4 варианта комнат</h2><p>Смотрите, сколько гостей разместятся<br> с&nbsp;комфортом и&nbsp;что&nbsp;есть внутри</p></div>
+        <div class="room-toolbar"><div class="segmented" role="group" aria-label="Дни аренды"><button type="button" data-day="0" aria-pressed="true">Пн–Чт</button><button type="button" data-day="1" aria-pressed="false">Пт–Вс</button></div><p>Почасовые тарифы для&nbsp;дат до&nbsp;20 декабря 2026</p></div>
+        <div class="rooms-grid" id="room-list"></div>
+        <p class="section-footnote">Стоимость указана за&nbsp;комнату, а&nbsp;не&nbsp;за&nbsp;гостя. Минимальную длительность и&nbsp;свободное время уточняет администратор</p>
+      </div>
+    </section>
+
+    <section class="section programs-section" id="programs" aria-labelledby="programs-title">
+      <div class="container">
+        <div class="section-heading"><h2 id="programs-title">Вечер, который<br> не&nbsp;нужно придумывать</h2><p>Программа с&nbsp;ведущим и&nbsp;время для&nbsp;себя.<br> Выберите, сколько будет того и&nbsp;другого</p></div>
+        <div class="package-toolbar"><label class="inline-select">Комната <select id="package-room"><option value="eco">Эко</option><option value="art">Арт</option><option value="multi">Мульти</option></select></label><div class="segmented" role="group" aria-label="Дни для программы"><button type="button" data-day="0" aria-pressed="true">Пн–Чт</button><button type="button" data-day="1" aria-pressed="false">Пт–Вс</button></div><span>Стоимость за&nbsp;всю компанию</span></div>
+        <div class="package-grid" id="package-list"></div>
+        <p class="section-footnote">Время ведущего уже&nbsp;входит в&nbsp;общую длительность. Программу и&nbsp;стоимость на&nbsp;праздничные даты согласуем отдельно</p>
+        <div class="games-heading"><h3>Что&nbsp;ещё&nbsp;предлагаем</h3><p>Игры для&nbsp;вашей компании&nbsp;— отдельный формат отдыха</p></div>
+        <div class="private-games" id="private-games"></div>
+      </div>
+    </section>
+
+    <section class="section included-section" id="included" aria-labelledby="included-title">
+      <div class="container included-layout">
+        <div><h2 id="included-title">Понятно,<br> за&nbsp;что&nbsp;платите</h2><p class="section-intro">Сначала выбираем комнату и&nbsp;формат,<br> затем согласовываем все&nbsp;условия</p><button class="text-button" data-book>Обсудить свой вечер</button></div>
+        <div class="included-content">
+          <div class="included-group"><h3>В&nbsp;аренде комнаты</h3><ul class="check-list"><li><svg><use href="#check-icon"/></svg>Отдельное пространство для&nbsp;вашей компании</li><li><svg><use href="#check-icon"/></svg>Оборудование, указанное в&nbsp;карточке комнаты</li><li><svg><use href="#check-icon"/></svg>Свои еда и&nbsp;напитки без&nbsp;пробкового сбора</li></ul></div>
+          <div class="included-group"><h3>Можно выбрать дополнительно</h3><p>Программу с&nbsp;ведущим, Мафию, Бункер или&nbsp;квиз. Состав и&nbsp;стоимость обсуждаем до&nbsp;подтверждения брони</p></div>
+          <div class="conditions-note"><h3>Перед&nbsp;бронированием</h3><p>Администратор подтвердит свободное время, итоговую стоимость, размер предоплаты и&nbsp;правила переноса. Бронь подтверждается после&nbsp;предоплаты</p><details><summary>Какие условия ещё&nbsp;уточняются</summary><p>Минимальное время аренды, уборка и&nbsp;посуда, размер и&nbsp;возврат предоплаты, ограничения по&nbsp;времени и&nbsp;шуму. В&nbsp;прототипе эти&nbsp;условия не&nbsp;заявлены как&nbsp;согласованные</p></details></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section trust-section" id="guests" aria-labelledby="guests-title">
+      <div class="container">
+        <div class="section-heading"><h2 id="guests-title">Наши гости</h2><p>Здесь будут фотографии настоящих праздников<br> из&nbsp;официальной группы «Локации»</p></div>
+        <div class="guest-gallery">
+          <div class="photo-placeholder guest-photo"><svg><use href="#photo-icon"/></svg><strong>День рождения в&nbsp;Мульти</strong><span>Компания за&nbsp;праздничным столом</span><small>Фото-заглушка</small></div>
+          <div class="photo-placeholder guest-photo guest-photo-second"><svg><use href="#photo-icon"/></svg><strong>Караоке-вечер в&nbsp;Арт</strong><span>Гости и&nbsp;комната во&nbsp;время праздника</span><small>Фото-заглушка</small></div>
+        </div>
+        <div class="reviews-heading"><div><h3>Что&nbsp;говорят о&nbsp;Локации</h3><p>Здесь появятся проверенные оценка и&nbsp;количество отзывов</p></div><div class="carousel-controls"><button class="icon-button" data-review-scroll="-1" aria-label="Предыдущие отзывы"><svg class="rotate"><use href="#chevron-icon"/></svg></button><button class="icon-button" data-review-scroll="1" aria-label="Следующие отзывы"><svg><use href="#chevron-icon"/></svg></button></div></div>
+        <div class="reviews-track" id="reviews-track" tabindex="0" aria-label="Места для настоящих отзывов">
+          <article class="review-placeholder"><div class="review-person"><span class="empty-avatar" aria-hidden="true"></span><div><strong>Настоящий отзыв гостя</strong><span>Имя, дата и&nbsp;оценка из&nbsp;источника</span></div></div><h4>О&nbsp;комнате и&nbsp;атмосфере</h4><p>Место для&nbsp;отзыва о&nbsp;пространстве, комфорте и&nbsp;впечатлениях от&nbsp;вечера</p><span class="placeholder-label">Отзыв пока не&nbsp;добавлен</span></article>
+          <article class="review-placeholder"><div class="review-person"><span class="empty-avatar" aria-hidden="true"></span><div><strong>Настоящий отзыв гостя</strong><span>Имя, дата и&nbsp;оценка из&nbsp;источника</span></div></div><h4>О&nbsp;программе с&nbsp;ведущим</h4><p>Место для&nbsp;отзыва о&nbsp;празднике, играх и&nbsp;работе ведущего</p><span class="placeholder-label">Отзыв пока не&nbsp;добавлен</span></article>
+          <article class="review-placeholder"><div class="review-person"><span class="empty-avatar" aria-hidden="true"></span><div><strong>Настоящий отзыв гостя</strong><span>Имя, дата и&nbsp;оценка из&nbsp;источника</span></div></div><h4>Об&nbsp;организации вечера</h4><p>Место для&nbsp;отзыва о&nbsp;подготовке комнаты и&nbsp;помощи команды</p><span class="placeholder-label">Отзыв пока не&nbsp;добавлен</span></article>
+        </div>
+        <a class="source-link" href="https://yandex.ru/maps/org/86248476598/reviews/" target="_blank" rel="noopener noreferrer">Читать настоящие отзывы на&nbsp;Яндекс Картах</a>
+      </div>
+    </section>
+
+    <section class="section booking-section" id="booking" aria-labelledby="booking-title">
+      <div class="container booking-layout">
+        <div class="booking-copy"><h2 id="booking-title">Давайте спланируем<br> ваш&nbsp;вечер</h2><p>Расскажите, когда&nbsp;и&nbsp;какой компанией хотите прийти. Поможем выбрать комнату и&nbsp;уточним стоимость</p><ol class="booking-steps"><li><span>1</span><div><strong>Оставьте заявку</strong><p>Дата, число гостей и&nbsp;удобный контакт</p></div></li><li><span>2</span><div><strong>Согласуйте детали</strong><p>Свободное время, программу и&nbsp;итоговую сумму</p></div></li><li><span>3</span><div><strong>Подтвердите бронь</strong><p>Внесите согласованную предоплату</p></div></li></ol></div>
+        <div class="booking-panel" id="inline-form-slot"></div>
+      </div>
+    </section>
+
+    <section class="section open-games-section" id="open-games" aria-labelledby="open-title">
+      <div class="container">
+        <div class="section-heading"><h2 id="open-title">Открытые игры</h2><p>Присоединяйтесь к&nbsp;общей встрече.<br> Оплата за&nbsp;участника, а&nbsp;не&nbsp;за&nbsp;комнату</p></div>
+        <div class="open-games-grid"><article class="open-event"><div class="event-top"><h3>Мафия</h3><span>Открытая игра</span></div><p>Знакомства, обсуждения и&nbsp;поиск мафии за&nbsp;одним столом</p><div class="event-date"><strong>Ближайшую дату уточняем</strong><span>Актуальный анонс&nbsp;— в&nbsp;группе ВК</span></div><div class="event-bottom"><p><strong>600&nbsp;₽</strong><span>за&nbsp;участника · по&nbsp;карточке услуги</span></p><button class="button button-outline" data-event="mafia">Узнать ближайшую дату</button></div></article><article class="open-event"><div class="event-top"><h3>Бункер</h3><span>Открытая игра</span></div><p>Аргументы, неожиданные роли и&nbsp;общее решение команды</p><div class="event-date"><strong>Ближайшую дату уточняем</strong><span>Актуальный анонс&nbsp;— в&nbsp;группе ВК</span></div><div class="event-bottom"><p><strong>600&nbsp;₽</strong><span>за&nbsp;участника · по&nbsp;карточке услуги</span></p><button class="button button-outline" data-event="bunker">Узнать ближайшую дату</button></div></article></div>
+        <p class="section-footnote">Длительность и&nbsp;условия конкретной встречи указаны в&nbsp;её&nbsp;анонсе. Свободные места подтверждает администратор</p>
+      </div>
+    </section>
+
+    <section class="section faq-section" id="faq" aria-labelledby="faq-title">
+      <div class="container faq-layout"><h2 id="faq-title">Частые вопросы</h2><div class="faq-list">
+        <details><summary>Можно со&nbsp;своей едой и&nbsp;напитками?</summary><p>Да,&nbsp;можно принести свои еду и&nbsp;напитки без&nbsp;пробкового сбора. Посуда, сервировка и&nbsp;уборка требуют отдельного уточнения</p></details>
+        <details><summary>Комната будет только для&nbsp;нашей компании?</summary><p>Да.&nbsp;При&nbsp;аренде вы&nbsp;выбираете отдельную комнату. Открытые игры&nbsp;— другой формат: на&nbsp;них собираются участники общей встречи</p></details>
+        <details><summary>Что&nbsp;выбрать, если&nbsp;не&nbsp;знаем, сколько будет гостей?</summary><p>Укажите примерное количество в&nbsp;заявке. У&nbsp;комнат есть комфортная и&nbsp;максимальная вместимость&nbsp;— администратор поможет выбрать подходящий вариант</p></details>
+        <details><summary>Время ведущего добавляется к&nbsp;аренде?</summary><p>В&nbsp;пакетах Лайт, Драйв и&nbsp;Максимум время ведущего входит в&nbsp;общие 4, 5 или&nbsp;6 часов соответственно. После&nbsp;программы остаётся 3 часа для&nbsp;самостоятельного отдыха</p></details>
+        <details><summary>Какие игры есть на&nbsp;PlayStation?</summary><p>В&nbsp;Эко установлена PS4, в&nbsp;Арт&nbsp;— PS5, в&nbsp;Мульти&nbsp;— PS5 Slim. Актуальный список игр уточните у&nbsp;администратора перед&nbsp;бронированием</p></details>
+        <details><summary>Как&nbsp;перенести или&nbsp;отменить бронь?</summary><p>Правила переноса, отмены и&nbsp;возврата предоплаты нужно согласовать с&nbsp;администратором до&nbsp;внесения оплаты. В&nbsp;прототипе эти&nbsp;условия пока не&nbsp;указаны</p></details>
+        <details><summary>Можно заранее посмотреть комнату?</summary><p>Напишите в&nbsp;группу ВК и&nbsp;договоритесь о&nbsp;просмотре. «Локация» работает по&nbsp;предварительной записи</p></details>
+      </div></div>
+    </section>
+
+    <section class="section contacts-section" id="contacts" aria-labelledby="contacts-title">
+      <div class="container contacts-layout"><div class="contact-copy"><h2 id="contacts-title">Встретимся<br> в&nbsp;центре Вологды</h2><p class="address">Марии Ульяновой, 10</p><p>Работаем по&nbsp;предварительной записи</p><div class="contact-links"><a class="phone" href="tel:+79115015805">+7 (911) 501-58-05</a><a href="https://vk.ru/location35" target="_blank" rel="noopener noreferrer">Написать в&nbsp;ВК</a></div><a class="button button-outline" href="https://yandex.ru/maps/?rtext=~59.219706,39.889555&amp;rtt=auto" target="_blank" rel="noopener noreferrer">Построить маршрут</a><p class="small-note">Инструкция по&nbsp;входу и&nbsp;информация о&nbsp;парковке появятся после&nbsp;уточнения</p></div><div class="map-wrap"><iframe title="Локация на Яндекс Картах" src="https://yandex.ru/map-widget/v1/?oid=86248476598&amp;ol=biz&amp;z=16" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe><a href="https://yandex.ru/maps/org/86248476598/" target="_blank" rel="noopener noreferrer">Открыть карту в&nbsp;отдельном окне</a></div></div>
+    </section>
+  </main>
+  <footer class="footer"><div class="container footer-grid"><div><a href="#" class="brand">локация<span class="brand-dot" aria-hidden="true"></span></a><p>Отдельные комнаты<br> для&nbsp;ваших общих историй</p></div><nav aria-label="Навигация в подвале"><a href="#rooms">Комнаты и&nbsp;цены</a><a href="#programs">Программы</a><a href="#included">Условия бронирования</a><a href="#open-games">Открытые игры</a></nav><div><p>Вологда, Марии Ульяновой, 10</p><a href="tel:+79115015805">+7 (911) 501-58-05</a><a href="https://vk.ru/location35" target="_blank" rel="noopener noreferrer">Группа ВК</a></div></div><div class="container footer-bottom"><span>© Локация, 2026</span><span>Прототип подготовила Вика</span><span>Реквизиты и&nbsp;документы для&nbsp;заявок уточняются</span></div></footer>
+  <div class="mobile-action"><span>Вечер своей компанией</span><button class="button button-small" data-book>Забронировать</button></div>
+  <dialog class="booking-dialog" id="booking-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><div><h2 id="dialog-title">Ваш&nbsp;вечер в&nbsp;Локации</h2><p>Выбор сохранён&nbsp;— осталось уточнить детали</p></div><button class="icon-button" data-close="booking-dialog" aria-label="Закрыть форму"><svg><use href="#close-icon"/></svg></button></div><div id="modal-form-slot"></div></dialog>
+  <dialog class="room-dialog" id="room-dialog" aria-labelledby="room-dialog-title"><div class="dialog-header"><h2 id="room-dialog-title">Комната</h2><button class="icon-button" data-close="room-dialog" aria-label="Закрыть описание комнаты"><svg><use href="#close-icon"/></svg></button></div><div id="room-dialog-content"></div></dialog>
+  <dialog class="result-dialog" id="result-dialog" aria-labelledby="result-title"><div class="dialog-header"><h2 id="result-title">Заявка подготовлена</h2><button class="icon-button" data-close="result-dialog" aria-label="Закрыть заявку"><svg><use href="#close-icon"/></svg></button></div><p>Это&nbsp;прототип: заявка никуда не&nbsp;отправлена. Можно скопировать текст и&nbsp;самостоятельно отправить его&nbsp;в&nbsp;сообщения группы</p><textarea id="request-text" readonly aria-label="Текст заявки" rows="8"></textarea><div class="result-actions"><button class="button" id="copy-request">Скопировать текст</button><a class="button button-outline" href="https://vk.ru/im?sel=-233966488" target="_blank" rel="noopener noreferrer">Открыть сообщения ВК</a></div><p class="copy-status" id="copy-status" role="status" aria-live="polite"></p></dialog>
+  <noscript><div class="noscript-note">Для&nbsp;сравнения комнат и&nbsp;работы формы включите JavaScript. Связаться с&nbsp;«Локацией» можно по&nbsp;телефону +7 (911) 501-58-05 или&nbsp;в&nbsp;группе vk.ru/location35</div></noscript>
+</body>
+</html>
